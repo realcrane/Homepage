@@ -1,0 +1,104 @@
+a,body,h1,h2,h3,table,td,th {
+	color:#14140f;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-size:12px;
+	text-align:center;
+	margin:0;
+	padding:0;
+}
+
+p {
+	text-align:justify;
+	font-size:16px;
+}
+
+h2 {
+	text-align: left;
+	font-size: 24px;
+	padding-top:1em;
+}
+
+body {
+	width:900px;
+	padding-left:20px;
+	padding-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a {
+	color:#0282f5;
+	text-decoration:none;
+	font-weight:700;
+}
+
+a:visited {
+	text-decoration:none;
+	font-weight:700;
+}
+
+a:hover {
+	color:#52cc60;
+}
+
+div#paper-title{
+    color:#0282f5;
+	font-size:36px;
+	font-weight:700;
+	text-shadow: 0.1em 0.1em 0.25em #aaa;
+	padding-top:0.5em;
+}
+
+div#venue{
+	color:#ccc;
+	font-size:18px;
+	font-weight:700;
+	padding-bottom:1em;
+}
+
+div#author-list{
+	font-size: 18px;
+	padding: 0.5em;
+	text-align:center;
+}
+
+div#author-list a{
+	font-size: 18px;
+	margin: 0.5em;
+	text-align:center;
+}
+
+div#affiliation{
+	width: 700px;
+	margin:auto;
+	font-size:16px;
+	color:#888;
+	padding-bottom:2em;
+}
+
+span.affiliation{
+	padding: 1em;
+}
+
+img.teaser{
+	width: 800px;
+}
+
+img.icon{
+	width:28px;
+	margin-bottom:-0.4em;
+}
+
+p.caption{
+	font-size:15px;
+	font-style:italic;
+}
+
+p.download a{
+	font-weight:700;
+	font-size:18px;
+}
+
+p.bibtex{
+	font-size:12px;
+}
