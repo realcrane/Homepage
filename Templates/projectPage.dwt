@@ -22,7 +22,7 @@
 	<header class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 		<div class="wrap">
 			<div class="title-area">
-				<h1 class="site-title" itemprop="headline"><a href="../index.htm">He Wang</a></h1>
+				<h1 class="site-title" itemprop="headline"><a href="../index.html">He Wang</a></h1>
 				<h2 class="site-description" itemprop="description">He Wang is an Assistant Professor in University of Leeds</h2>
 			</div>
 		</div>
@@ -34,7 +34,7 @@
 				<div class="responsive-menu-icon"></div>
 				<ul id="menu-left-menu" class="menu genesis-nav-menu menu-primary responsive-menu">
 					<li id="menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2774 current_page_item menu-item-2795">
-						<a href="../index.htm">HOME</a>
+						<a href="../index.html">HOME</a>
 					</li>
 					<li id="menu-item-2793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2793">
 						<a href="../publications.html">Publications</a>
@@ -73,9 +73,9 @@
 					IEEE TVCG 2019
 				</div>
 				<div id="author-list">
-					<a href="../index.htm">He Wang<sup>1</sup></a>
+					<a href="../index.html">He Wang<sup>1</sup></a>
                     <a href="http://www.edho.net//">Edmond Ho<sup>2</sup></a>
-					<a href="http://hubertshum.com/info/index.htm">Hubert Shum<sup>2</sup></a>
+					<a href="http://hubertshum.com/info/index.html">Hubert Shum<sup>2</sup></a>
                     <a href="https://sites.google.com/view/zhanxingzhu">Zhanxing Zhu<sup>3</sup></a>
 				</div>
 				<div id="affiliation">
@@ -139,7 +139,7 @@ IES\R2\181024).
 <footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
 	<div class="wrap">
 		<p>Copyright since 2016 &nbsp;&nbsp;
-			<a href="../index.htm">He Wang</a>
+			<a href="../index.html">He Wang</a>
 		</p>
 	</div>
 </footer>
