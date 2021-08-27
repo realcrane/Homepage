@@ -65,32 +65,30 @@
 	<!-- InstanceBeginEditable name="EditRegion3" -->
 	<div class="site-inner">
 		<div class="content-sidebar-wrap">
-			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
 				<header class="entry-header">
-					<div id="paper-title">Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance</div>
+					<div id="paper-title">MeshingNet3D: Efficient Generation of Adapted Tetrahedral Meshes for Computational Mechanics</div>
 				</header>
 				<div id="venue">
-					SIGGRAPH 2020
+					Advances in Engineering Software
 				</div>
 				<div id="author-list">
-					<a href="">Feixiang He<sup>1</sup></a>
-                    <a href="">Yuanhang Xia<sup>2</sup></a>
-					<a href="">Xi Zhao<sup>2</sup></a>
-                    <a href="https://sites.google.com/view/zhanxingzhu">He Wang<sup>1</sup></a>
+					<a href="">Zheyan Zhang</a>
+					<a href="">Peter K. Jimack</a>
+                    <a href="../index.htm">He Wang</a>
 				</div>
-				<div id="affiliation", align="center">
-					<span class="affiliation">University of Leeds, UK<sup>1</sup></span>
-					<span class="affiliation">Xi'an Jiaotong University, China<sup>2</sup></span>
+				<div id="affiliation", align="center>
+					<span class="affiliation">University of Leeds, UK</span>
 				</div>
 				<div id="teaser" align="center">
-					<img width="800px" src="../imgs/THDP.png"/>
+					<img width="700px" src="../imgs/MeshingNet3D.png"/>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
 					<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
 				</header>
 				<div class="entry-content" itemprop="text">
 					<div align="justify">
-					Crowd simulation is a central topic in several fields including graphics. To achieve high-fidelity simulations, data has been increasingly relied upon for analysis and simulation guidance. However, the information in real-world data is often noisy, mixed and unstructured, making it difficult for effective analysis, therefore has not been fully utilized. With the fast-growing volume of crowd data, such a bottleneck needs to be addressed. In this paper, we propose a new framework which comprehensively tackles this problem. It centers at an unsupervised method for analysis. The method takes as input raw and noisy data with highly mixed multi-dimensional (space, time and dynamics) information, and automatically structure it by learning the correlations among these dimensions. The dimensions together with their correlations fully describe the scene semantics which consists of recurring activity patterns in a scene, manifested as space flows with temporal and dynamics profiles. The effectiveness and robustness of the analysis have been tested on datasets with great variations in volume, duration, environment and crowd dynamics. Based on the analysis, new methods for data visualization, simulation evaluation and simulation guidance are also proposed. Together, our framework establishes a highly automated pipeline from raw data to crowd analysis, comparison and simulation guidance. Extensive experiments and evaluations have been conducted to show the flexibility, versatility and intuitiveness of our framework.
+					We describe a new algorithm for the generation of high quality tetrahedral meshes using artificial neural networks. The goal is to generate close-tooptimal meshes in the sense that the error in the computed finite element (FE) solution (for a target system of partial differential equations (PDEs)) is as small as it could be for a prescribed number of nodes or elements in the mesh. In this paper we illustrate and investigate our proposed approach by considering the equations of linear elasticity, solved on a variety of threedimensional geometries. This class of PDE is selected due to its equivalence to an energy minimization problem, which therefore allows a quantitative measure of the relative accuracy of different meshes (by comparing the energy associated with the respective FE solutions on these meshes). Once the algorithm has been introduced it is evaluated on a variety of test problems,each with its own distinctive features and geometric constraints, in order to demonstrate its eectiveness and computational efficiency.
 					</div>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
@@ -100,28 +98,19 @@
 				</div>
 				<h2 align="left">Downloads</h2>
 				<div>
-						<a href="https://arxiv.org/abs/2004.14107" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a> or <a href="https://www.researchgate.net/publication/341001922_Informative_Scene_Decomposition_for_Crowd_Analysis_Comparison_and_Simulation_Guidance" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
-						&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=F3Cmprhyy0M" target="blank"><image class="icon" src="../imgs/video-icon.jpg">	Video	</a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1yLBkWs-g_c&t=574s&ab_channel=FeixiangHe" target="blank"><image class="icon" src="../imgs/presentation-icon.png">	Presentation	</a>
+						<a href="https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
 				</div>
 				<h2 align="left" style="position:relative;margin-top:20px">Bibtex</h2>
 				<div id="bibtex">
 					<p class="bibtex"> 
-						@ARTICLE{He_Informative_2020,<br/>
-						author={He, Feixiang and Xia, Yuanhang and Zhao, Xio and Wang, He},<br/>
-						journal={ACM Transaction on Graphics (TOG)},<br/>
-						title={Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance},<br/>
-						year={2020},<br/>
-						volume={4},<br/>
-                        number={39},<br/>
-                        publisher={ACM} <br/>
-                        }
+						@article{zhang_meshingnet3d_2021,<br />
+                        title = {{MeshingNet3D}: {Efficient} generation of adapted tetrahedral meshes for computational mechanics},<br />
+                        volume = {157-158},<br />
+                        journal = {Advances in Engineering Software},<br />
+                        author = {Zhang, Zheyan and Jimack, Peter K. and Wang, He},<br />
+                        month = jul,<br />
+                        year = {2021},}
 					</p>
-				<header class="entry-header" style="position:relative;margin-top:20px">
-					<h1 class="entry-title" itemprop="headline" align="left">Acknowlegement</h1>
-				</header>
-				<div>
-                	The project is partially supported by EPSRC (Ref:EP/R031193/1).
-				</div>
 			</article>
 	  </div>
   </div>
