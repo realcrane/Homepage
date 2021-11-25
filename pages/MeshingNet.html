@@ -67,38 +67,28 @@
 		<div class="content-sidebar-wrap">
 			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
 				<header class="entry-header">
-					<div id="paper-title">MeshingNet: A New Mesh Generation Method based on Deep Learning</div>
+					<div id="paper-title">Finite Element Mesh Generation via Deep Learning</div>
 				</header>
-				<div id="venue">
-					International Conference on Computational Science 2020
-				</div>
-				<div id="author-list">
-					<a href="">Zheyan Zhang</a>
-                    <a href="">Yongxing Wang</a>
-					<a href="">Peter K. Jimack</a>
-                    <a href="../index.htm">He Wang</a>
-				</div>
-				<div id="affiliation", align="center>
-					<span class="affiliation">University of Leeds, UK</span>
-			
-				</div>
-				<div id="teaser" align="center">
-					<img width="800px" src="../imgs/MeshingNet.png"/>
-				</div>
+              <div id="venue">
+			  </div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
-					<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
+					<h1 class="entry-title" itemprop="headline" align="left">Project Description</h1>
 				</header>
 				<div class="entry-content" itemprop="text">
 					<div align="justify">
-					We introduce a novel approach to automatic unstructured mesh generation using machine learning to predict an optimal Finite element mesh for a previously unseen problem. The framework that we have developed is based around training an artificial neural network (ANN) to guide standard mesh generation software, based upon a prediction of the required local mesh density throughout the domain. We describe the training regime that is proposed, based upon the use of a posteriori error estimation, and discuss the topologies of the ANNs that we have considered. We then illustrate performance using two standard test problems, a single elliptic partial differential equation (PDE) and a system of PDEs associated with linear elasticity. We demonstrate the effective generation of high quality meshes for arbitrary polygonal geometries and a range of material parameters, using a variety of user-selected error norms.
+					Finite Element Methods (FEM) have been ubiquitously used in solving Partial Differential Equations (PDEs in an extremely wide range of fields in computer science and engineering, ranging from critical domains such as solid mechanics and fluid dynamics, to entertainments/education such as visual effects, computer graphics, animation and virtual reality. One key fundamental aspect to such research is a well-balanced trade-off between accuracy and speed: for example, a significant proportion of the effort has been devoted to generating high-quality and adaptive FEM meshes. In the era of machine learning and deep learning, scientists have been actively exploring data-driven methods such as deep neural networks to help directly solve PDEs.  One possible direction is to combine traditional numerical solvers with smartly generated FEM meshes via deep learning. This way, we aim to both accelerate the speed and safeguard the accuracy. This route eliminates the worst-case scenarios where deep learning models can generate wrong predictions due to limited training data or the lack of model generalizability when used to predict the solutions directly.
+
 					</div>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
 					<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
 				</header>
-				<div>
+                <div id="teaser" align="center">
+					<img width="700px" src="../imgs/MeshingNet.png"/>
 				</div>
-				<h2 align="left">Downloads</h2>
+				<div class="entry-content" itemprop="text", style="position:relative;margin-top:10px">
+                1. Zheyan Zhang, Yongxing Wang, Peter K. Jimack and He Wang, MeshingNet: A New Mesh Generation Method based on Deep Learning, International Conference on Computational Science 2020.
+                </div>
 				<div>
 						<a href="https://arxiv.org/abs/2004.07016" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a> or <a href="https://www.researchgate.net/publication/340647389_MeshingNet_A_New_Mesh_Generation_Method_based_on_Deep_Learning" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
 				</div>
@@ -118,7 +108,28 @@
                         pages="186--198",<br />
                         }
 					</p>
+                </div>
+                <div id="teaser" align="center">
+					<img width="500px" src="../imgs/MeshingNet3D.png"/>
 				</div>
+                <div class="entry-content" itemprop="text">
+                2. Zheyan Zhang, Peter K. Jimack and He Wang, MeshingNet3D: Efficient Generation of Adapted Tetrahedral Meshes for Computational Mechanics, Advances in Software Engineering, 2021
+                </div>
+				<div>
+					<a href="https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
+				</div>
+				<h2 align="left" style="position:relative;margin-top:20px">Bibtex</h2>
+				<div id="bibtex">
+					<p class="bibtex"> 
+						@article{zhang_meshingnet3d_2021,<br />
+                        title = {{MeshingNet3D}: {Efficient} generation of adapted tetrahedral meshes for computational mechanics},<br />
+                        volume = {157-158},<br />
+                        journal = {Advances in Engineering Software},<br />
+                        author = {Zhang, Zheyan and Jimack, Peter K. and Wang, He},<br />
+                        month = jul,<br />
+                        year = {2021},}
+					</p>
+                </div>
 			</article>
 	  </div>
   </div>
