@@ -65,71 +65,57 @@
 	<!-- InstanceBeginEditable name="EditRegion3" -->
 	<div class="site-inner">
 		<div class="content-sidebar-wrap">
-			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
 				<header class="entry-header">
-					<div id="paper-title">Finite Element Mesh Generation via Deep Learning</div>
+					<div id="paper-title">Human Trajectory Prediction via Neural Social Physics</div>
 				</header>
-              <div id="venue">
-			  </div>
+				<div id="venue">
+					ECCV 2022
+				</div>
+				<div id="author-list">
+					<a href="">Jiangbei Yue<sup>1</sup></a>
+                    <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha<sup>2</sup></a>
+					<a href="../index.html">He Wang<sup>1</sup></a>
+				</div>
+				<div id="affiliation">
+					<span class="affiliation">University of Leeds, UK<sup>1</sup></span>
+                    <span class="affiliation">University of Maryland at College Park, US<sup>2</sup></span>
+				</div>
+				<div id="teaser" align="center">
+					<img width="1000px" src="../imgs/NSP.png"/>
+				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
-					<h1 class="entry-title" itemprop="headline" align="left">Project Description</h1>
+					<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
 				</header>
 				<div class="entry-content" itemprop="text">
 					<div align="justify">
-					Finite Element Methods (FEM) have been ubiquitously used in solving Partial Differential Equations (PDEs in an extremely wide range of fields in computer science and engineering, ranging from critical domains such as solid mechanics and fluid dynamics, to entertainments/education such as visual effects, computer graphics, animation and virtual reality. One key fundamental aspect to such research is a well-balanced trade-off between accuracy and speed: for example, a significant proportion of the effort has been devoted to generating high-quality and adaptive FEM meshes. In the era of machine learning and deep learning, scientists have been actively exploring data-driven methods such as deep neural networks to help directly solve PDEs.  One possible direction is to combine traditional numerical solvers with smartly generated FEM meshes via deep learning. This way, we aim to both accelerate the speed and safeguard the accuracy. This route eliminates the worst-case scenarios where deep learning models can generate wrong predictions due to limited training data or the lack of model generalizability when used to predict the solutions directly.
-
+					 Trajectory prediction has been widely pursued in many fields, and many model-based and model-free methods have been explored. The former include rule-based, geometric or optimization-based models, and the latter are mainly comprised of deep learning approaches. In this paper, we propose a new method combining both methodologies based on a new Neural Differential Equation model. Our new model (Neural Social Physics or NSP) is a deep neural network within which we use an explicit physics model with learnable parameters. The explicit physics model serves as a strong inductive bias in modeling pedestrian behaviors, while the rest of the network provides a strong data-fitting capability in terms of system parameter estimation and dynamics stochasticity modeling. We compare NSP with 15 recent deep learning methods on 6 datasets and improve the state-of-the-art performance by 5.56%-70%. Besides, we show that NSP has better generalizability in predicting plausible trajectories in drastically different scenarios where the density is 2-5 times as high as the testing data. Finally, we show that the physics model in NSP can provide plausible explanations for pedestrian behaviors, as opposed to black-box deep learning. Code is available: https://github.com/realcrane/HumanTrajectory-Prediction-via-Neural-Social-Physics
 					</div>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
 					<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
 				</header>
-                <div id="teaser" align="center">
-					<img width="700px" src="../imgs/MeshingNet.png"/>
-				</div>
-				<div class="entry-content" itemprop="text", style="position:relative;margin-top:10px">
-                1. Zheyan Zhang, Yongxing Wang, Peter K. Jimack and He Wang, MeshingNet: A New Mesh Generation Method based on Deep Learning, International Conference on Computational Science 2020.
-                </div>
 				<div>
-						<a href="https://arxiv.org/abs/2004.07016" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a> or <a href="https://www.researchgate.net/publication/340647389_MeshingNet_A_New_Mesh_Generation_Method_based_on_Deep_Learning" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
+				</div>
+				<h2 align="left">Downloads</h2>
+				<div>
+						<a href="https://arxiv.org/abs/2207.10435" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a> or <a href="https://www.researchgate.net/publication/362172074_Human_Trajectory_Prediction_via_Neural_Social_Physics" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics" target="_blank"><image class="icon" src="../imgs/code-icon.png">	Code</a>
 				</div>
 				<h2 align="left" style="position:relative;margin-top:20px">Bibtex</h2>
 				<div id="bibtex">
 					<p class="bibtex"> 
-                    	@InProceedings{10.1007/978-3-030-50420-5_14, <br />
-						author="Zhang, Zheyan <br />
-                        and Wang, Yongxing <br />
-                        and Jimack, Peter K. <br />
-                        and Wang, He",<br />
-                        title="MeshingNet: A New Mesh Generation Method Based on Deep Learning",<br />
-                        booktitle="Computational Science -- ICCS 2020",<br />
-                        year="2020",<br />
-                        publisher="Springer International Publishing",<br />
-                        address="Cham",<br />
-                        pages="186--198",<br />
-                        }
+						@InProceedings{Jiang_trajectory_2022,<br/>
+						author={J. {Yue} and D. {Manocha} and H. {Wang}},<br/>
+						booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},<br/>
+						title={Human Trajectory Prediction via Neural Social Physics},<br/>
+						year={2022}}
 					</p>
-                </div>
-                <div id="teaser" align="center">
-					<img width="500px" src="../imgs/MeshingNet3D.png"/>
-				</div>
-                <div class="entry-content" itemprop="text">
-                2. Zheyan Zhang, Peter K. Jimack and He Wang, MeshingNet3D: Efficient Generation of Adapted Tetrahedral Meshes for Computational Mechanics, Advances in Engineering Software, 2021
-                </div>
+				<header class="entry-header" style="position:relative;margin-top:20px">
+					<h1 class="entry-title" itemprop="headline" align="left">Acknowlegement</h1>
+				</header>
 				<div>
-					<a href="https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</a>
+                	This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 899739 CrowdDNA.
 				</div>
-				<h2 align="left" style="position:relative;margin-top:20px">Bibtex</h2>
-				<div id="bibtex">
-					<p class="bibtex"> 
-						@article{zhang_meshingnet3d_2021,<br />
-                        title = {{MeshingNet3D}: {Efficient} generation of adapted tetrahedral meshes for computational mechanics},<br />
-                        volume = {157-158},<br />
-                        journal = {Advances in Engineering Software},<br />
-                        author = {Zhang, Zheyan and Jimack, Peter K. and Wang, He},<br />
-                        month = jul,<br />
-                        year = {2021},}
-					</p>
-                </div>
 			</article>
 	  </div>
   </div>
