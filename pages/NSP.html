@@ -67,37 +67,40 @@
 		<div class="content-sidebar-wrap">
 			<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
 				<header class="entry-header">
-					<div id="paper-title">Human Trajectory Prediction via Neural Social Physics</div>
+					<div id="paper-title">Human Trajectory Prediction</div>
 				</header>
-				<div id="venue">
-					ECCV 2022
-				</div>
-				<div id="author-list">
+<!-- 				<div id="author-list">
 					<a href="">Jiangbei Yue<sup>1</sup></a>
                     <a href="https://www.cs.umd.edu/people/dmanocha">Dinesh Manocha<sup>2</sup></a>
 					<a href="../index.html">He Wang<sup>1</sup></a>
-				</div>
-				<div id="affiliation">
+				</div> -->
+<!-- 				<div id="affiliation">
 					<span class="affiliation">University of Leeds, UK<sup>1</sup></span>
                     <span class="affiliation">University of Maryland at College Park, US<sup>2</sup></span>
-				</div>
+				</div> -->
 				<div id="teaser" align="center">
 					<img width="1000px" src="../imgs/NSP.png"/>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
-					<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
+					<h1 class="entry-title" itemprop="headline" align="left">Project Description</h1>
 				</header>
 				<div class="entry-content" itemprop="text">
 					<div align="justify">
-					 Trajectory prediction has been widely pursued in many fields, and many model-based and model-free methods have been explored. The former include rule-based, geometric or optimization-based models, and the latter are mainly comprised of deep learning approaches. In this paper, we propose a new method combining both methodologies based on a new Neural Differential Equation model. Our new model (Neural Social Physics or NSP) is a deep neural network within which we use an explicit physics model with learnable parameters. The explicit physics model serves as a strong inductive bias in modeling pedestrian behaviors, while the rest of the network provides a strong data-fitting capability in terms of system parameter estimation and dynamics stochasticity modeling. We compare NSP with 15 recent deep learning methods on 6 datasets and improve the state-of-the-art performance by 5.56%-70%. Besides, we show that NSP has better generalizability in predicting plausible trajectories in drastically different scenarios where the density is 2-5 times as high as the testing data. Finally, we show that the physics model in NSP can provide plausible explanations for pedestrian behaviors, as opposed to black-box deep learning. Code is available: https://github.com/realcrane/HumanTrajectory-Prediction-via-Neural-Social-Physics
+					 Understanding human trajectories is key to many research areas such as physics, computer science and social sciences. Being able to learn behaviors with noninvasive sensors is important to analyzing the natural behaviors of humans. This problem has been widely studied in computer graphics, computer vision and machine learning. Existing approaches generally fall into model-based and model-free methods. Early model-based methods tended to be empirical or rule-based methods derived via the first-principles approach: summarizing observations into rules and deterministic systems based on fundamental assumptions on human motion. In such a perspective, social interactions can be modelled as forces in a particle system or an optimization problem, and individuals can be influenced by affective states. Later, data-driven model based methods were introduced, in which the model behavior is still dominated by the assumptions on the dynamics, e.g. a linear dynamical system, but retains sufficient flexibility so that the model can be adjusted to fit observations. More recently, model-free methods based on deep learning have also been explored, and these demonstrate surprising trajectory prediction capability. While empirical or rule-based methods possess good explainability, they are formed to model specific behaviors and it is hard to calibrate them on data. Data-driven model-based methods (e.g., statistical machine learning) improve the ability of data fitting but are restricted by the specific statistical models employed which have limited capacities to learn from large amounts of data. Finally, deep learning approaches excel at data fitting, but lack explainability and therefore have been mainly used for prediction rather than analysis and simulation. In this project, we explore a new class of models where deep learning is enhanced with inductive biases inspired by physics.
 					</div>
 				</div>
 				<header class="entry-header" style="position:relative;margin-top:20px">
 					<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
 				</header>
-				<div>
+                <div style="position:relative;margin-top:10px">
+					1. Jiangbei Yue, Dinesh Manocha and He Wang, Human Trajectory Forecasting with Explainable Behavioral Uncertainty, arxiv, 2023.
 				</div>
-				<h2 align="left">Downloads</h2>
+				<div>
+                  <a href="https://arxiv.org/abs/2307.01817" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</image></a>
+				</div>
+				<div style="position:relative;margin-top:10px">
+					2. Jiangbei Yue, Dinesh Manocha and He Wang, Human Trajectory Prediction via Neural Social Physics, the European Conference on Computer Vision (ECCV) 2022.
+				</div>
 				<div>
                   <a href="https://arxiv.org/abs/2207.10435" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	PDF	</image></a> or <a href="https://www.researchgate.net/publication/362172074_Human_Trajectory_Prediction_via_Neural_Social_Physics" target="blank"><image class="icon" src="../imgs/PDF-icon.png"> PDF </image></a>&nbsp;&nbsp;&nbsp;<a href="https://www.researchgate.net/publication/362172074_Human_Trajectory_Prediction_via_Neural_Social_Physics" target="blank"><image class="icon" src="../imgs/PDF-icon.png">	Poster 	</image></a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://youtu.be/mItv1eZWrbw"><image class="icon" src="../imgs/video-icon.jpg">Video</image></a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics"><image class="icon" src="../imgs/code-icon.png">Code</image></a>
 				</div>
