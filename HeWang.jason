@@ -1,0 +1,325 @@
+{
+"wang2011energy" : {
+"Project" : "http://drhewang.com/pages/energyFolding.html",
+"PDF" : "https://www.researchgate.net/publication/221657165_Energy-Based_Pose_Unfolding_and_Interpolation_for_3D_Articulated_Characters",
+"Video" : "https://www.youtube.com/watch?v=bCORW8o4z7c"
+},
+
+"wang2012manipulation" : {
+"Project" : "http://drhewang.com/pages/furoshiki.html",
+"PDF" : "https://www.researchgate.net/publication/221676695_Manipulation_of_Flexible_Objects_by_Geodesic_Control",
+"Video" : "https://www.youtube.com/watch?v=MdrI7FGnCtI"
+},
+
+"wang2013harmonic" : {
+"Project" : "http://drhewang.com/pages/elecCoords.html",
+"PDF" : "https://www.researchgate.net/publication/244485188_Harmonic_Parameterization_by_Electrostatics",
+"Video" : "https://www.youtube.com/watch?v=U0GDNqqgw3U"
+},
+
+"zhao2014indexing" : {
+"Project" : "http://drhewang.com/pages/IBS.html",
+"PDF" : "https://www.researchgate.net/publication/259714645_Indexing_3D_Scenes_Using_the_Interaction_Bisector_Surface"
+},
+
+"wang2014energy" : {
+"Project" : "http://drhewang.com/pages/energyFolding.html",
+"PDF" : "https://www.researchgate.net/publication/262527557_An_Energy-Driven_Motion_Planning_Method_for_Two_Distant_Postures",
+"Video" : "https://www.youtube.com/watch?v=bCORW8o4z7c"
+},
+
+"ho2014multi" : {
+"PDF" : "https://www.researchgate.net/publication/269112351_A_Multi-resolution_Approach_for_Adapting_Close_Character_Interaction"
+},
+
+"wang2016globally" : {
+"Project" : "http://drhewang.com/pages/GCNAAV.html",
+"PDF" : "https://www.researchgate.net/publication/305769016_Globally_Continuous_and_Non-Markovian_Crowd_Activity_Analysis_from_Videos"
+},
+
+"shum2016skillvis" : {
+"Project" : "http://drhewang.com/pages/skillVis.html",
+"PDF" : "https://www.researchgate.net/publication/309292912_SkillVis_A_Visualization_Tool_for_Boxing_Skill_Assessment",
+"Video" : "https://www.youtube.com/watch?v=C_YQT2JNBZ8"
+},
+
+"wang2017trending" : {
+"Project" : "http://drhewang.com/pages/pathPatterns.html",
+"PDF" : "https://www.researchgate.net/publication/311771071_Trending_Paths_A_New_Semantic-Level_Metric_for_Comparing_Simulated_and_Real_Crowd_Data",
+"Video" : "https://www.researchgate.net/publication/303939646_Paper_video"
+},
+
+
+"shen2017posture" : {
+"PDF" : "https://www.researchgate.net/publication/320406965_Posture-based_and_Action-based_Graphs_for_Boxing_Skill_Visualization"
+},
+
+"shi2017shape" : {
+"PDF" : "https://www.researchgate.net/publication/315671050_Shape_Up_Perception_based_body_shape_variation_for_data-driven_crowds"
+},
+
+"ho2017synthesizing" : {
+"PDF" : "https://eprints.whiterose.ac.uk/121250/"
+},
+
+"shen2018data" : {
+"PDF" : "https://www.researchgate.net/publication/323538189_Data-Driven_Crowd_Motion_Control_With_Multi-Touch_Gestures",
+"Video" : "https://www.youtube.com/watch?v=bFU0kK306u4&feature=youtu.be"
+},
+
+"pan2019novel" : {
+"PDF" : "https://www.researchgate.net/publication/332756367_A_Novel_Deep_Learning_based_Automatic_Auscultatory_Method_to_Measure_Blood_Pressure"
+},
+
+"wang2019spatio" : {
+"Project" : "http://drhewang.com/pages/strnn.html",
+"PDF" : "https://arxiv.org/pdf/1908.07214.pdf",
+"Video" : "https://www.youtube.com/watch?v=qjJ653e96pw&t=161s"
+},
+
+
+"hasan2020human" : {
+"PDF" : "https://arxiv.org/pdf/2002.12738.pdf",
+"Video" : "https://www.youtube.com/watch?v=aMIZP_SYa0I",
+"Code" : "https://github.com/m-hasan-n/hlp",
+"Media" : "https://techxplore.com/news/2020-03-human-like-planner-robots-cluttered-environments.html"
+},
+
+"he2020informative" : {
+"Project" : "http://drhewang.com/pages/THDP.html",
+"PDF" : "https://arxiv.org/pdf/2004.14107.pdf",
+"Video" : "https://www.youtube.com/watch?v=F3Cmprhyy0M",
+"Presentation" : "https://www.youtube.com/watch?v=1yLBkWs-g_c&t=574s"
+},
+
+"zhang2020meshingnet" : {
+"Project" : "http://drhewang.com/pages/MeshingNet.html",
+"PDF" : "https://arxiv.org/pdf/2004.07016.pdf"
+},
+
+"ji2020three" : {
+"PDF" : "https://www.researchgate.net/publication/340809510_Three-dimensional_simulation_of_warp_knitted_structures_based_on_geometric_unit_cell_of_loop_yarns"
+},
+
+"yu2020classify" : {
+"PDF" : "https://arxiv.org/abs/2006.07841.pdf"
+},
+
+"xiang2020fastswarm" : {
+"PDF" : "https://arxiv.org/pdf/2007.11250.pdf"
+},
+
+"warburton2020getting" : {
+"PDF" : "https://www.biorxiv.org/content/10.1101/2020.06.02.127860v1"
+},
+
+"zhang2020data" : {
+"PDF" : "https://www.researchgate.net/publication/343727714_Data_Analytics_in_Steady-State_Visual_Evoked_Potential-Based_Brain-Computer_Interface_A_Review"
+},
+
+"chen2020dynamic" : {
+"PDF" : "https://www.researchgate.net/publication/346200844_Dynamic_Future_Net_Diversified_Human_Motion_Generation/stats"
+},
+
+"liu2021game" : {
+"PDF" : "https://arxiv.org/pdf/2102.04035.pdf"
+},
+
+"diao2021basar" : {
+"Project" : "http://drhewang.com/pages/AAHAR.html",
+"PDF" : "https://arxiv.org/abs/2211.11312.pdf"
+},
+
+"pan2021heterskinnet" : {
+"PDF" : "https://arxiv.org/abs/2103.10602.pdf",
+"Video" : "https://www.youtube.com/watch?v=XGZQZAOin2M"
+},
+
+"hartley2022formation" : {
+"PDF" : "https://arxiv.org/abs/2103.09184.pdf"
+},
+
+"hasan2021maneuver_a" : {
+"PDF" : "https://arxiv.org/abs/2104.11180.pdf",
+"Code" : "https://github.com/m-hasan-n/roundabout"
+},
+
+"hasan2021maneuver_b" : {
+"PDF" : "https://arxiv.org/abs/2104.14079.pdf",
+"Code" : "https://github.com/m-hasan-n/pooling"
+},
+
+"pan2021development" : {
+"PDF" : "https://www.sciencedirect.com/science/article/abs/pii/S1746809421003396?casa_token=DIhOxpsCxM4AAAAA:ehapTM14SXqoprAPUXE4hcwJF46K1HQibJnQ5E2kbLK-RqVQL1HCXKHvG7flywDHv784fBRWxw"
+},
+
+"shen2021high" : {
+"PDF" : "https://arxiv.org/abs/2102.11026.pdf",
+"Video" : "https://ensemble.clemson.edu/hapi/v1/contents/permalinks/Sc95Ngy6/view"
+},
+
+"zhang2021meshingnet3d" : {
+"Project" : "http://drhewang.com/pages/MeshingNet.html",
+"PDF" : "https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics"
+},
+
+"ying2021unsupervised" : {
+"PDF" : "https://arxiv.org/abs/2108.07975.pdf",
+"Presentation" : "https://onedrive.live.com/?authkey=%21ACORfe31DjtflJU&id=2C35C105E2AEE05F%212360&cid=2C35C105E2AEE05F",
+"Code" : "https://github.com/realcrane/MICGANs",
+"Poster" : "https://onedrive.live.com/?authkey=%21ACORfe31DjtflJU&id=2C35C105E2AEE05F%212360&cid=2C35C105E2AEE05F"
+},
+
+"le2022systematic" : {
+"PDF" : "https://www.biorxiv.org/content/10.1101/2021.12.16.472954v1"
+},
+
+"gong2022fine" : {
+"Project" : "http://drhewang.com/pages/diffcloth.html",
+"PDF" : "https://arxiv.org/abs/2202.00504.pdf",
+"Video" : "https://www.youtube.com/watch?v=pCB8AD9R4Dk&feature=youtu.be",
+"Code" : "https://github.com/realcrane/Fine-grained-Differentiable-Physics-A-Yarn-level-Model-for-Fabrics",
+"Presentation" : "https://iclr.cc/virtual/2022/poster/7205",
+"Poster" : "http://drhewang.com/files/ICLR2022_poster.pdf"
+},
+
+"lu2022pose" : {
+"PDF" : "https://arxiv.org/abs/2202.00843.pdf"
+},
+
+"wang2023defending_a" : {
+"Project" : "http://drhewang.com/pages/AAHAR.html",
+"PDF" : "https://arxiv.org/abs/2203.04713.pdf",
+"Code" : "https://github.com/realcrane/RobustActionRecogniser",
+"Presentation" : "https://youtu.be/s1dkja9KqLg",
+"Poster" : "https://www.researchgate.net/publication/359129692_Defending_Black-box_Skeleton-based_Human_Activity_Classifiers"
+},
+
+"taccari2022attention" : {
+"PDF" : "https://arxiv.org/abs/2204.04518.pdf"
+},
+
+"he2022iplan" : {
+"Project" : "http://drhewang.com/pages/iplan.html",
+"PDF" : "https://arxiv.org/abs/2203.14412.pdf",
+"Code" : "https://github.com/realcrane/iPLAN-Interactive-and-Procedural-Layout-Planning"
+},
+
+"zhang2022multi" : {
+"PDF" : "https://ieeexplore.ieee.org/document/9694580"
+},
+
+
+"diao2022large" : {
+"PDF" : "https://www.researchgate.net/publication/358973585_A_large-scale_container_dataset_and_a_baseline_method_for_container_hole_localization"
+},
+
+"tang2022real" : {
+"PDF" : "https://arxiv.org/abs/2205.02540.pdf",
+"Video" : "https://youtu.be/xgpw6WXs3Ig"
+},
+
+"paschalidis2021estimation" : {
+"PDF" : "https://www.nrso.ntua.gr/rss2022/wp-content/uploads/2022/06/RSS2022_paper_96.pdf",
+"Presentation" : "https://www.nrso.ntua.gr/rss2022/wp-content/uploads/2022/06/RSS2022_Presentation_96.pdf"
+},
+
+"wang2021understanding" : {
+"Project" : "http://drhewang.com/pages/AAHAR.html",
+"PDF" : "https://arxiv.org/abs/2103.05347.pdf",
+"Code" : "https://github.com/realcrane/Understanding-the-Robustness-of-Skeleton-based-Action-Recognition-under-Adversarial-Attack",
+"Video" : "https://youtu.be/DeMkN3efp9s"
+},
+
+"alghamdi2022talking" : {
+"Project" : "https://mohammedalghamdi.github.io/talking-heads-acm-mm/",
+"PDF" : "https://arxiv.org/abs/2209.04252.pdf",
+"Code" : "https://github.com/MohammedAlghamdi/talking-heads-acm-mm",
+"Poster" : "https://mohammedalghamdi.github.io/talking-heads-acm-mm/resources/acmmm2022_poster_mmfp1475.pdf"
+},
+
+
+"zhang2022shape" : {
+"PDF" : "https://arxiv.org/abs/2209.08345.pdf",
+"Video" : "https://youtu.be/MAwkZt7napA"
+},
+
+"han2022spatio" : {
+"PDF" : "https://arxiv.org/abs/2209.12511.pdf",
+"Video" : "https://www.youtube.com/watch?v=IJPQuK-qNkw"
+},
+
+"yue2022human" : {
+"Project" : "http://drhewang.com/pages/NSP.html",
+"PDF" : "https://arxiv.org/abs/2207.10435.pdf",
+"Code" : "https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics",
+"Poster" : "https://www.researchgate.net/publication/362172074_Human_Trajectory_Prediction_via_Neural_Social_Physics",
+"Presentation" : "https://www.youtube.com/watch?v=mItv1eZWrbw&feature=youtu.be"
+},
+
+"diao2022understanding" : {
+"Project" : "http://drhewang.com/pages/AAHAR.html",
+"PDF" : "https://arxiv.org/abs/2211.11312.pdf"
+},
+
+"wang2016path" : {
+"Project" : "http://drhewang.com/pages/pathPatterns.html",
+"PDF" : "https://www.researchgate.net/publication/288669927_Path_Patterns_Analyzing_and_Comparing_Real_and_Simulated_Crowds",
+"Video" : "https://www.researchgate.net/publication/303939646_Paper_video"
+},
+
+"yang2023mnss" : {
+"PDF" : "https://www.computer.org/csdl/journal/tg/5555/01/10076842/1LFQ7mRf54s"
+},
+
+"taccari2023developing" : {
+"PDF" : "https://arxiv.org/abs/2304.12299.pdf"
+},
+
+"jiang2023unlearnable" : {
+"PDF" : "https://arxiv.org/abs/2305.09241.pdf"
+},
+
+"zhang2023bayesian" : {
+"PDF" : "https://ieeexplore.ieee.org/document/10147794"
+},
+
+"hu2023point2partvolume" : {
+"PDF" : "https://ieeexplore.ieee.org/document/10147789"
+},
+
+"tang2023rsmt" : {
+"PDF" : "https://arxiv.org/abs/2306.11970.pdf",
+"Code" : "https://github.com/realcrane/RSMT-Realtime-Stylized-Motion-Transition",
+"Video" : "https://youtu.be/HigyJr5y_Iw"
+},
+
+"yue2023human" : {
+"Project" : "http://drhewang.com/pages/NSP.html",
+"PDF" : "https://arxiv.org/abs/2307.01817.pdf"
+},
+
+"wang2023defending_b" : {
+"Project" : "http://drhewang.com/pages/AAHAR.html",
+"PDF" : "https://arxiv.org/abs/2306.16979.pdf"
+},
+
+"chan2019generic" : {
+"PDF" : "https://www.researchgate.net/publication/330856006_A_generic_framework_for_editing_and_synthesizing_multimodal_data_with_relative_emotion_strength_Editing_and_synthesizing_multimodal_data_with_emotion"
+},
+
+"xiang2023model" : {
+"PDF" : "https://onlinelibrary.wiley.com/doi/10.1111/cgf.14919"
+},
+
+"taccari2023understanding" : {
+"PDF" : "https://arxiv.org/abs/2307.04010.pdf",
+"Video" : "https://www.youtube.com/watch?v=AbrmzL8c4oY"
+},
+
+"ying2023adaptive" : {
+"PDF" : "https://arxiv.org/abs/2307.08348.pdf",
+"Code" : "https://github.com/realcrane/Adaptive-Local-Basis-Functions"
+}
+
+}
