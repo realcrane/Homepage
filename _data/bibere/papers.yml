@@ -1,0 +1,1630 @@
+wang2011energy:
+  title: >
+    Energy-Based Pose Unfolding and Interpolation for 3D Articulated Characters
+  authors:
+    - He Wang
+    - Taku Komura
+  venue: mig
+  year: 2011
+  type: Conference
+  project: energy_interpolation
+  links:
+    - name: Project Page
+      link: pages/energyFolding.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/221252083_Energy-Based_Pose_Unfolding_and_Interpolation_for_3D_Articulated_Characters
+
+wang2012manipulation:
+  title: >
+    Manipulation of Flexible Objects by Geodesic Control
+  authors:
+    - He Wang
+    - Taku Komura
+  venue: cgf
+  year: 2012
+  volume: 31
+  number: 2
+  page: 499--508
+  organization: John Wiley & Sons, Inc. New York, NY, USA
+  type: Journal
+  project: furoshiki
+  note: (Accepted in Eurographics 2012)
+  links:
+    - name: Project Page
+      link: pages/furoshiki.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/221676695_Manipulation_of_Flexible_Objects_by_Geodesic_Control
+    - name: Video
+      link: https://www.youtube.com/watch?v=MdrI7FGnCtI
+
+wang2013harmonic:
+  title: >
+    Harmonic parameterization by electrostatics
+  authors:
+    - He Wang
+    - Kirill A Sidorov
+    - Peter Sandilands
+    - Taku Komura
+  venue: acmtog
+  year: 2013
+  volume: 32
+  number: 5
+  page: 1--12
+  type: Journal
+  project: ElecCoords
+  note: (Presented in SIGGRAPH 2014)
+  links:
+    - name: Project Page
+      link: pages/elecCoords.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/244485188_Harmonic_Parameterization_by_Electrostatics
+    - name: Video
+      link: https://www.youtube.com/watch?v=U0GDNqqgw3U
+
+zhao2014indexing:
+  title: >
+    Indexing 3D scenes using the interaction bisector surface
+  authors:
+    - Xi Zhao
+    - He Wang
+    - Taku Komura
+  venue: acmtog
+  year: 2014
+  volume: 33
+  number: 3
+  page: 1--14
+  type: Journal
+  project: IBS
+  note: (Presented in SIGGRAPH 2014)
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/259714645_Indexing_3D_Scenes_Using_the_Interaction_Bisector_Surface
+    - name: Supplement
+      link: https://www.researchgate.net/publication/309295222_Supplementary
+
+wang2014energy:
+  title: >
+    An energy-driven motion planning method for two distant postures
+  authors:
+    - He Wang
+    - Edmond SL Ho
+    - Taku Komura
+  venue: tvcg
+  year: 2014
+  volume: 21
+  number: 1
+  page: 18--30
+  type: Journal
+  project: energy_interpolation
+  links:
+    - name: Project Page
+      link: pages/energyFolding.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/262527557_An_Energy-Driven_Motion_Planning_Method_for_Two_Distant_Postures
+
+ho2014multi:
+  title: >
+    A multi-resolution approach for adapting close character interaction
+  authors:
+    - Edmond SL Ho
+    - He Wang
+    - Taku Komura
+  venue: vrst
+  year: 2014
+  type: Conference
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/269112351_A_Multi-resolution_Approach_for_Adapting_Close_Character_Interaction
+
+wang2016globally:
+  title: >
+    Globally Continuous and Non-Markovian Crowd Activity Analysis from Videos
+  authors:
+    - He Wang
+    - Carol O'Sullivan
+  venue: eccv
+  year: 2016
+  type: Conference
+  project: crowd_st_analysis
+  emphasis: (Spotlight, 2.9% of submissions)
+  links:
+    - name: Project Page
+      link: pages/GCNAAV.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/305769016_Globally_Continuous_and_Non-Markovian_Crowd_Activity_Analysis_from_Videos
+    - name: Video
+      link: https://www.youtube.com/watch?v=sd070Xk_QUA
+    - name: Code
+      link: https://github.com/realcrane/Spatio-temporal-Hierarchical-Dirichlet-Processes
+    - name: Supplement
+      link: https://www.researchgate.net/publication/305768862_Globally_Continuous_and_Non-Markovian_Crowd_Activity_Analysis_from_Videos-Supplement
+
+shum2016skillvis:
+  title: >
+    Skillvis: A visualization tool for boxing skill assessment
+  authors:
+    - Hubert PH Shum
+    - He Wang
+    - Edmond SL HO
+    - Taku Komura
+  venue: mig
+  year: 2016
+  pages: 145--153
+  booktitle: Proceedings of the 9th International Conference on Motion in Games
+  type: Conference
+  note: (Selected for C&G referral)
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/305769016_Globally_Continuous_and_Non-Markovian_Crowd_Activity_Analysis_from_Videos
+
+wang2017trending:
+  title: >
+    Trending Paths: A New Semantic-level Metric for Comparing Simulated and Real Crowd Data
+  authors:
+    - He Wang
+    - Ondřej, Jan
+    - Carol O'Sullivan
+  venue: tvcg
+  year: 2017
+  volume: 23
+  number: 5
+  page: 1454--1464
+  type: Journal
+  project: path_patterns
+  links:
+    - name: Project Page
+      link: pages/pathPatterns.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/311771071_Trending_Paths_A_New_Semantic-Level_Metric_for_Comparing_Simulated_and_Real_Crowd_Data
+    - name: Supplement
+      link: https://www.researchgate.net/publication/311771071_Trending_Paths_A_New_Semantic-Level_Metric_for_Comparing_Simulated_and_Real_Crowd_Data
+
+shen2017posture:
+  title: >
+    Posture-based and action-based graphs for boxing skill visualization
+  authors:
+    - Yijun Shen
+    - He Wang
+    - Edmond SL HO
+    - Longzhi Yang
+    - Hubert PH Shum
+  venue: cg
+  year: 2017
+  volume: 23
+  number: 69
+  page: 104--115
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/320406965_Posture-based_and_Action-based_Graphs_for_Boxing_Skill_Visualization
+
+shi2017shape:
+  title: >
+    Shape Up! Perception based body shape variation for data-driven crowds
+  authors:
+    - Yinxuan Shi
+    - Ondřej, Jan
+    - He Wang
+    - Carol O'Sullivan
+  venue: IEEE VR Workshop on Virtual Humans and Crowds in Immersive Environments
+  year: 2017
+  type: Workshop
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/315671050_Shape_Up_Perception_based_body_shape_variation_for_data-driven_crowds
+    - name: Supplement
+      link: https://www.researchgate.net/publication/315694066_suppvideo-v1
+
+shen2018data:
+  title: >
+    Data-driven crowd motion control with multi-touch gestures
+  authors:
+    - Yijun Shen
+    - Joseph Henry
+    - He Wang
+    - Edmond SL Ho
+    - Taku Komura
+    - Hubert PH Shum
+  venue: cgf
+  year: 2018
+  volume: 37
+  number: 6
+  page: 382--394
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/323538189_Data-Driven_Crowd_Motion_Control_with_Multi-touch_Gestures
+    - name: Video
+      link: https://www.youtube.com/watch?v=bFU0kK306u4&feature=youtu.be
+
+pan2019novel:
+  title: >
+    A Novel Deep Learning based Automatic Auscultatory Method to Measure Blood Pressure
+  authors:
+    - Fan Pan
+    - Peiyu He
+    - Fei Chen
+    - Jing Zhang
+    - He Wang
+    - Dingchang Zheng
+  venue: ijmi
+  year: 2019
+  volume: 128
+  page: 71--78
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/332756367_A_Novel_Deep_Learning_based_Automatic_Auscultatory_Method_to_Measure_Blood_Pressure
+
+wang2019spatio:
+  title: >
+    Spatio-temporal manifold learning for human motions via long-horizon modeling
+  authors:
+    - He Wang
+    - Edmond SL Ho
+    - Hubert PH Shum
+    - Zhanxing Zhu
+  venue: tvcg
+  year: 2019
+  volume: 27
+  number: 1
+  page: 216--227
+  type: Journal
+  project: strnn
+  links:
+    - name: Project Page
+      link: pages/strnn.html
+    - name: Paper
+      link: https://arxiv.org/abs/1908.07214
+    - name: Video
+      link: https://www.youtube.com/watch?v=qjJ653e96pw&t=161s
+    - name: Video
+      link: https://youtu.be/jSJ0edCBEGM
+
+hasan2020human:
+  title: >
+    Human-like Planning for Reaching in Cluttered Environments
+  authors:
+    - Mohamed Hasan
+    - Matthew Warburton
+    - Wisdom C Agboh
+    - Mehmet R Dogar
+    - Matteo Leonetti
+    - He Wang
+    - Faisal Mushtaq
+    - Mark Mon-Williams
+    - Anthony G Cohn
+  venue: icra
+  year: 2020
+  type: Conference
+  emphasis: (covered by TechXplore)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2002.12738
+    - name: Video
+      link: https://www.youtube.com/watch?v=aMIZP_SYa0I&feature=youtu.be
+    - name: Code
+      link: https://github.com/m-hasan-n/hlp
+    - name: Media
+      link: https://techxplore.com/news/2020-03-human-like-planner-robots-cluttered-environments.html
+
+
+he2020informative:
+  title: >
+    Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance
+  authors:
+    - Feixiang He
+    - Yuanhang Xiang
+    - Xi Zhao
+    - He Wang
+  venue: acmtog
+  year: 2020
+  volume: 4
+  number: 39
+  type: Journal
+  note: (Accepted in SIGGRAPH 2020)
+  project: thdp
+  links:
+    - name: Project Page
+      link: pages/THDP.html
+    - name: Paper
+      link: https://arxiv.org/abs/2004.14107
+    - name: Video
+      link: https://www.youtube.com/watch?v=F3Cmprhyy0M
+    - name: Presentation
+      link: https://www.youtube.com/watch?v=1yLBkWs-g_c&t=574s&ab_channel=FeixiangHe
+
+zhang2020meshingnet:
+  title: >
+    MeshingNet: A new mesh generation method based on deep learning
+  authors:
+    - Zheyan Zhang
+    - Yongxing Wang
+    - Peter K Jimack
+    - He Wang
+  venue: iccs
+  year: 2020
+  volume: 4
+  number: 39
+  type: Conference
+  booktitle: Proceedings of International Conference on Computational Science
+  pages: 186--198
+  organization: Springer International Publishing
+  project: meshingnet
+  links:
+    - name: Project Page
+      link: pages/MeshingNet.html
+    - name: Paper
+      link: https://arxiv.org/abs/2004.07016
+
+ji2020three:
+  title: >
+    Three-dimensional simulation of warp knitted structures based on geometric unit cell of loop yarns
+  authors:
+    - Yong Ji
+    - Gaoming Jiang
+    - Mengting Tang
+    - Ningtao Mao
+    - He Wang
+  venue: trj
+  year: 2020
+  volume: 90
+  number: 23-24
+  pages: 2639--2647
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/340809510_Three-dimensional_simulation_of_warp_knitted_structures_based_on_geometric_unit_cell_of_loop_yarns
+
+yu2020classify:
+  title: >
+    Classify and Generate Reciprocally: Simultaneous Positive-Unlabelled Learning and Conditional Generation with Extra Data
+  authors:
+    - Bing Yu
+    - Ke Sun
+    - He Wang
+    - Zhuochen Lin
+    - Zhanxing Zhu
+  venue: arxiv
+  year: 2020
+  type: Preprint
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2006.07841
+
+xiang2020fastswarm:
+  title: >
+    FASTSWARM: A data-driven framework for real-time flying insect swarm simulation
+  authors:
+    - Wei Xiang
+    - Xinran Yao
+    - He Wang
+    - Xiaogang Jin
+  venue: cgf
+  year: 2020
+  volume: 31
+  number: 4-5
+  pages: e1957
+  type: Journal
+  note: (Best Student Paper Nomination in CASA 2020)
+  emphasis: (Cover Featured)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2007.11250
+
+ho2017synthesizing:
+  title: >
+    Synthesizing motion with relative emotion strength
+  authors:
+    - Edmond SL Ho
+    - Hubert PH Shum
+    - He Wang
+    - Li Yi
+  venue: ACM SIGGRAPH Asia Workshop on Data-Driven Animation Techniques
+  year: 2017
+  type: Workshop
+  links:
+    - name: Paper
+      link: https://eprints.whiterose.ac.uk/121250/
+
+warburton2024getting:
+  title: >
+    Getting stuck in a rut as an emergent feature of a dynamic decision-making system
+  authors:
+    - Matthew Warburton
+    - Jack Brookes
+    - Mohamed Hasan
+    - Matteo Leonetti
+    - Mehmet Dogar
+    - He Wang
+    - Anthony G Cohn
+    - Faisal Mushtaq
+    - Mark A Mon-Williams
+  venue: Royal Society Open Science
+  year: 2024
+  type: Journal
+  links:
+    - name: Paper
+      link: https://royalsocietypublishing.org/doi/10.1098/rsos.231550
+
+zhang2020data:
+  title: >
+    Data analytics in steady-state visual evoked potential-based brain--computer interface: A review
+  authors:
+    - Yue Zhang
+    - Shane Q Xie
+    - He Wang
+    - Zhiqiang Zhang
+  venue: ieee_sensors
+  year: 2020
+  volume: 21
+  number: 2
+  pages: 1124--1138
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/343727714_Data_Analytics_in_Steady-State_Visual_Evoked_Potential-based_Brain-Computer_Interface_A_Review
+
+liu2021game:
+  title: >
+    In-game residential home planning via visual context-aware global relation learning
+  authors:
+    - Lijuan Liu
+    - Yin Yang
+    - Yi Yuan
+    - Tianjia Shao
+    - He Wang
+    - Kun Zhou
+  venue: aaai
+  year: 2021
+  volume: 35
+  number: 1
+  pages: 336--343
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2102.04035
+
+diao2021basar:
+  title: >
+    BASAR: Black-box attack on skeletal action recognition
+  authors:
+    - Yufeng Diao
+    - Tianjia Shao
+    - Yongliang Yang
+    - Kun Zhou
+    - He Wang
+  venue: cvpr
+  year: 2021
+  type: Conference
+  booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  pages: 7597--7607
+  project: aahar
+  links:
+    - name: Project Page
+      link: pages/AAHAR.html
+    - name: Paper
+      link: https://arxiv.org/abs/2103.05266
+    - name: Supplement
+      link: https://www.researchgate.net/publication/349917355_BASAR_CVPR2021_supplemental_document_camera_readypdf
+    - name: Video
+      link: https://www.youtube.com/watch?v=PjWgwnAkV8g&feature=youtu.be&ab_channel=HeWang
+    - name: Code
+      link: https://github.com/realcrane/BASAR-Black-box-Attack-on-Skeletal-Action-Recognition
+    - name: Errata
+      link: http://drhewang.com/files/BASAR_errata_v2.pdf
+
+pan2021heterskinnet:
+  title: >
+    HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction
+  authors:
+    - Xiaoyu Pan
+    - Jiancong Huang
+    - Jiaming Mai
+    - He Wang
+    - Honglin Li
+    - Tongkui Su
+    - Wenjun Wang
+    - Xiaogang Jin
+  venue: i3d
+  year: 2021
+  volume: 4
+  number: 1
+  booktitle: Proceedings of the ACM on Computer Graphics and Interactive Techniques
+  type: Conference
+  organization: Association for Computing Machinery
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2103.10602
+    - name: Video
+      link: https://www.youtube.com/watch?v=XGZQZAOin2M
+
+hartley2022formation:
+  title: >
+    Formation control for UAVs using a Flux Guided approach
+  authors:
+    - John Hartley
+    - Hubert PH Shum
+    - Edmond SL Ho
+    - He Wang
+    - Subramanian Ramamoorthy
+  venue: esa
+  year: 2022
+  volume: 205
+  type: Journal
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2103.09184
+
+hasan2021maneuver:
+  title: >
+    Maneuver-aware pooling for vehicle trajectory prediction
+  authors:
+    - Mohamed Hasan
+    - Albert Solernou
+    - Evangelos Paschalidis
+    - He Wang
+    - Gustav Markkula
+    - Richard Romano
+  venue: axiv
+  year: 2021
+  volume: 205
+  type: Preprint
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2104.14079
+    - name: Code
+      link: https://github.com/m-hasan-n/pooling
+
+chen2020dynamic:
+  title: >
+    Dynamic future net: Diversified human motion generation
+  authors:
+    - Wenheng Chen
+    - He Wang
+    - Yi Yuan
+    - Tianjia Shao
+    - Kun Zhou
+  venue: acmmm
+  year: 2020
+  booktitle: Proceedings of the 28th ACM International Conference on Multimedia
+  pages: 2131--2139
+  type: Conference
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/343280233_Dynamic_Future_Net_Diversified_Human_Motion_Generation
+
+pan2021development:
+  title: >
+    Development and validation of a deep learning-based automatic auscultatory blood pressure measurement method
+  authors:
+    - Fan Pan
+    - Peiyu He
+    - He Wang
+    - Yuhang Xu
+    - Xiaobo Pu
+    - Qijun Zhao
+    - Fei Chen
+    - Dingchang Zheng
+  venue: bspc
+  year: 2021
+  volume: 68
+  pages: 102742
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.sciencedirect.com/science/article/pii/S1746809421003396?casa_token=DIhOxpsCxM4AAAAA:ehapTM14SXqoprAPUXE4hcwJF46K1HQibJnQ5E2kbLK-RqVQL1HCXKHvG7flywDHv784fBRWxw
+
+shen2021high:
+  title: >
+    High-order differentiable autoencoder for nonlinear model reduction
+  authors:
+    - Siyuan Shen
+    - Yin Yang
+    - Tianjia Shao
+    - He Wang
+    - Chenfanfu Jiang
+    - Lei Lan
+    - Kun Zhou
+  venue: acmtog
+  year: 2021
+  volume: 40
+  number: 4
+  pages: 1-15
+  type: Journal
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2102.11026
+    - name: Video
+      link: https://ensemble.clemson.edu/hapi/v1/contents/permalinks/Sc95Ngy6/view
+
+zhang2021meshingnet3d:
+  title: >
+    MeshingNet3D: Efficient generation of adapted tetrahedral meshes for computational mechanics
+  authors:
+    - Zheyan Zhang
+    - Peter K Jimack
+    - He Wang
+  venue: aes
+  year: 2021
+  volume: 157–158
+  type: Journal
+  pages: 103021
+  project: meshingnet
+  links:
+    - name: Project Page
+      link: pages/MeshingNet.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics
+
+ying2021unsupervised:
+  title: >
+    Unsupervised Image Generation with Infinite Generative Adversarial Networks
+  authors:
+    - Hui Ying
+    - He Wang
+    - Tianjia Shao
+    - Yin Yang
+    - Kun Zhou
+  venue: iccv
+  year: 2021
+  volume: 40
+  number: 4
+  pages: 14284--14293
+  booktitle: Proceedings of the IEEE/CVF International Conference on Computer Vision
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2108.07975
+    - name: Video
+      link: https://onedrive.live.com/?authkey=%21ACORfe31DjtflJU&id=2C35C105E2AEE05F%212360&cid=2C35C105E2AEE05F
+    - name: Poster
+      link: https://onedrive.live.com/?authkey=%21ACORfe31DjtflJU&id=2C35C105E2AEE05F%212360&cid=2C35C105E2AEE05F
+    - name: Code
+      link: https://github.com/yinghdb/MICGANs
+
+le2022systematic:
+  title: >
+    Systematic simulation of the interactions of pleckstrin homology domains with membranes
+  authors:
+    - Kyle IP Le Huray
+    - He Wang
+    - Frank Sobott
+    - Antreas C Kalli
+  venue: sa
+  year: 2022
+  volume: 8
+  number: 27
+  pages: eabn6992
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.biorxiv.org/content/10.1101/2021.12.16.472954v1
+
+gong2022fine:
+  title: >
+    Fine-grained differentiable physics: a yarn-level model for fabrics
+  authors:
+    - Deshan Gong
+    - Zhanxing Zhu
+    - Andrew J Bulpitt
+    - He Wang
+  venue: iclr
+  year: 2022
+  type: Conference
+  project: diffCloth
+  links:
+    - name: Project Page
+      link: pages/diffcloth.html
+    - name: Paper
+      link: https://arxiv.org/abs/2202.00504
+    - name: Code
+      link: https://github.com/realcrane/Fine-grained-Differentiable-Physics-A-Yarn-level-Model-for-Fabrics
+    - name: Video
+      link: https://youtu.be/pCB8AD9R4Dk
+    - name: Presentation
+      link: https://iclr.cc/virtual/2022/poster/7205
+    - name: Poster
+      link: http://drhewang.com/files/ICLR2022_poster.pdf
+
+lu2022pose:
+  title: >
+    Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction
+  authors:
+    - Jiawei Lu
+    - He Wang
+    - Tianjia Shao
+    - Yin Yang
+    - Kun Zhou
+  venue: aaai
+  year: 2022
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2202.00843
+
+wang2023defending:
+  title: >
+    Post-train Black-box Defense via Bayesian Boundary Correction
+  authors:
+    - He Wang
+    - Yunfeng Diao
+  venue: arxiv
+  year: 2024
+  type: Preprint
+  project: aahar
+  links:
+    - name: Project Page
+      link: pages/AAHAR.html
+    - name: Paper
+      link: https://arxiv.org/abs/2306.16979
+
+taccari2022attention:
+  title: >
+    Attention U-Net as a surrogate model for groundwater prediction
+  authors:
+    - Maria Luisa Taccari
+    - Jonathan Nuttall
+    - Xiaohui Chen
+    - He Wang
+    - Bennie Minnema
+    - Peter K Jimack
+  venue: awr
+  year: 2022
+  volume: 163
+  pages: 104169
+  type: Journal
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2204.04518
+
+he2022iplan:
+  title: >
+    iPLAN: interactive and procedural layout planning
+  authors:
+    - Feixiang He
+    - Yanlong Huang
+    - He Wang
+  venue: cvpr
+  booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  year: 2022
+  type: Conference
+  project: iplan
+  links:
+    - name: Project Page
+      link: pages/iplan.html
+    - name: Paper
+      link: https://arxiv.org/abs/2203.14412
+    - name: Code
+      link: https://github.com/realcrane/iPLAN-Interactive-and-Procedural-Layout-Planning
+
+
+zhang2022multi:
+  title: >
+    Multi-objective optimization-based high-pass spatial filtering for SSVEP-based brain--computer interfaces
+  authors:
+    - Yue Zhang
+    - Zhenhong Li
+    - ShengQuan Xie
+    - He Wang
+    - Zhibin Yu
+    - Zhiqiang Zhang
+  venue: ieee_tim
+  year: 2022
+  volume: 71
+  pages: 1--9
+  type: Journal
+  links:
+    - name: Paper
+      link: https://ieeexplore.ieee.org/document/9694580
+
+diao2022large:
+  title: >
+    A large-scale container dataset and a baseline method for container hole localization
+  authors:
+    - Yunfeng Diao
+    - Xin Tang
+    - He Wang
+    - Emma Christophine Florence Taylor
+    - Shirui Xiao
+    - Mengtian Xie
+    - Wenming Cheng
+  venue: Journal of Real-Time Image Processing
+  year: 2022
+  volume: 19
+  number: 3
+  pages: 577--589
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/358973585_A_large-scale_container_dataset_and_a_baseline_method_for_container_hole_localization
+
+tang2022real:
+  title: >
+    Real-time Controllable Motion Transition for Characters
+  authors:
+    - Xiangjun Tang
+    - He Wang
+    - Bo Hu
+    - Xu Gong
+    - Ruifan Yi
+    - Qilong Kou
+    - Xiaogang Jin
+  venue: acmtog
+  year: 2022
+  volume: 41
+  number: 4
+  pages: 1-10
+  type: Journal
+  note: (Accepted in SIGGRAPH 2022)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2205.02540
+    - name: Video
+      link: https://youtu.be/xgpw6WXs3Ig
+
+paschalidis2021estimation:
+  title: >
+    Estimation and safety validation of a roundabout gap-acceptance model in a simulated environment
+  authors:
+    - Evangelos Paschalidis
+    - Albert Solernou
+    - Mohamed Hasan
+    - Gustav Markkula
+    - He Wang
+    - Richard Romano
+  venue: The Road Safety and Simulation Conference
+  year: 2021
+  type: Conference
+  links:
+    - name: Paper
+      link: https://www.nrso.ntua.gr/rss2022/wp-content/uploads/2022/06/RSS2022_paper_96.pdf
+    - name: Slides
+      link: https://www.nrso.ntua.gr/rss2022/wp-content/uploads/2022/06/RSS2022_Presentation_96.pdf
+
+wang2021understanding:
+  title: >
+    Understanding the robustness of skeleton-based action recognition under adversarial attack
+  authors:
+    - He Wang
+    - Feixiang He
+    - Zhexi Peng
+    - Tianjia Shao
+    - Yongliang Yang
+    - Kun Zhou
+    - David Hogg
+  venue: cvpr
+  year: 2021
+  type: Conference
+  booktitle: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  pages: 14656--14665
+  project: aahar
+  links:
+    - name: Project Page
+      link: pages/AAHAR.html
+    - name: Paper
+      link: https://arxiv.org/abs/2103.05347
+    - name: Supplement
+      link: https://www.researchgate.net/publication/349917361_HAR_CVPR2021_supplement_camera_readypdf
+    - name: Video
+      link: https://youtu.be/DeMkN3efp9s
+    - name: Code
+      link: https://github.com/realcrane/Understanding-the-Robustness-of-Skeleton-based-Action-Recognition-under-Adversarial-Attack
+
+yao2022crowd:
+  title: >
+    Crowd Simulation with Detailed Body Motion and Interaction
+  authors:
+    - Xinran Yao
+    - Shuning Wang
+    - Wenxin Sun
+    - He Wang
+    - Yangjun Wang
+    - Xiaogang Jin
+  venue: cgi
+  year: 2022
+  type: Conference
+  booktitle: Proceedings of Computer Graphics International Conference
+  pages: 227--238
+  links:
+    - name: Paper
+      link: https://link.springer.com/chapter/10.1007/978-3-031-23473-6_18
+    - name: Video
+      link: https://www.youtube.com/watch?v=QMrC8JkGVV8
+
+alghamdi2022talking:
+  title: >
+    Talking Head from Speech Audio using a Pre-trained Image Generator
+  authors:
+    - Mohammed M Alghamdi
+    - He Wang
+    - Andrew J Bulpitt
+    - David C Hogg
+  venue: acmmm
+  year: 2022
+  type: Conference
+  booktitle: Proceedings of the 30th ACM International Conference on Multimedia
+  pages: 5228--5236
+  links:
+    - name: Project Page
+      link: https://mohammedalghamdi.github.io/talking-heads-acm-mm/
+    - name: Paper
+      link: https://arxiv.org/abs/2209.04252
+    - name: Code
+      link: https://github.com/MohammedAlghamdi/talking-heads-acm-mm
+    - name: Poster
+      link: https://mohammedalghamdi.github.io/talking-heads-acm-mm/resources/acmmm2022_poster_mmfp1475.pdf
+
+zhang2022shape:
+  title: >
+    Shape Completion with Points in the Shadow
+  authors:
+    - Bowen Zhang
+    - Xi Zhao
+    - He Wang
+    - Ruizhen Hu
+  venue: sigasia
+  year: 2022
+  type: Conference
+  booktitle: SIGGRAPH Asia 2022 Conference Papers
+  pages: 1--9
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2209.08345
+    - name: Video
+      link: https://youtu.be/MAwkZt7napA
+
+han2022spatio:
+  title: >
+    Spatio-temporal Keyframe Control of Traffic Simulation using Coarse-to-Fine Optimization
+  authors:
+    - Yi Han
+    - He Wang
+    - Xiaogang Jin
+  venue: cgf
+  year: 2022
+  type: Journal
+  note: (Accepted in Pacific Graphics 2022)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2209.12511
+    - name: Video
+      link: https://www.youtube.com/watch?v=IJPQuK-qNkw
+
+yue2022human:
+  title: >
+    Human trajectory prediction via neural social physics
+  authors:
+    - Jiangbei Yue
+    - Dinesh Manocha
+    - He Wang
+  venue: eccv
+  year: 2022
+  pages: 376--394
+  type: Conference
+  project: trajectoryPrediction
+  links:
+    - name: Project Page
+      link: pages/NSP.html
+    - name: Paper
+      link: https://arxiv.org/abs/2207.10435
+    - name: Video
+      link: https://youtu.be/mItv1eZWrbw
+    - name: Code
+      link: https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics
+    - name: Poster
+      link: https://www.researchgate.net/publication/362172074_Human_Trajectory_Prediction_via_Neural_Social_Physics
+
+
+
+wang2016path:
+  title: >
+    Path patterns: Analyzing and comparing real and simulated crowds
+  authors:
+    - He Wang
+    - Jan Ondřej
+    - Carol O'Sullivan
+  venue: i3d
+  year: 2016
+  booktitle: Proceedings of the 20th acm siggraph symposium on interactive 3d graphics and game
+  pages: 49--57
+  type: Conference
+  emphasis: (Selected for IEEE TVCG referral, 10% of accepted papers)
+  project: path_patterns
+  links:
+    - name: Project Page
+      link: pages/pathPatterns.html
+    - name: Paper
+      link: https://www.researchgate.net/publication/288669927_Path_Patterns_Analyzing_and_Comparing_Real_and_Simulated_Crowds
+    - name: Video
+      link: https://www.researchgate.net/publication/288669927_Path_Patterns_Analyzing_and_Comparing_Real_and_Simulated_Crowds
+
+yang2023mnss:
+  title: >
+    MNSS: Neural Supersampling Framework for Real-Time Rendering on Mobile Devices
+  authors:
+    - Sipeng Yang
+    - Yunlu Zhao
+    - Yuzhe Luo
+    - He Wang
+    - Hongyu Sun
+    - Chen Li
+    - Binghuang Cai
+    - Xiaogang Jin
+  venue: tvcg
+  year: 2023
+  pages: 1-14
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.computer.org/csdl/journal/tg/5555/01/10076842/1LFQ7mRf54s
+
+jiang2023unlearnable:
+  title: >
+    Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples
+  authors:
+    - Wan Jiang
+    - Yunfeng Diao
+    - He Wang
+    - Jianxin Sun
+    - Meng Wang
+    - Richang Hong
+  venue: acmmm
+  year: 2023
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2305.09241
+    - name: Code
+      link: https://github.com/jiangw-0/le_jcdp
+
+zhang2023bayesian:
+  title: >
+    Bayesian-based Classification Confidence Estimation for Enhancing SSVEP Detection
+  authors:
+    - Yue Zhang
+    - Sheng Quan Xie
+    - He Wang
+    - Chaoyang Shi
+    - Zhiqiang Zhang
+  venue: ieee_tim
+  year: 2023
+  volume: 72
+  pages: 1-12
+  type: Journal
+  links:
+    - name: Paper
+      link: https://ieeexplore.ieee.org/document/10147794
+
+hu2023point2partvolume:
+  title: >
+    Point2PartVolume: Human Body Volume Estimation from A Single Depth Image
+  authors:
+    - Pengpeng Hu
+    - Xinxin Dai
+    - Ran Zhao
+    - He Wang
+    - Yingliang Ma
+    - Adrian Munteanu
+  venue: ieee_tim
+  year: 2023
+  volume: 72
+  pages: 1-12
+  type: Journal
+  links:
+    - name: Paper
+      link: https://ieeexplore.ieee.org/document/10147789
+
+tang2023rsmt:
+  title: >
+    RSMT: Real-time Stylized Motion Transition for Characters
+  authors:
+    - Xiangjun Tang
+    - Linjun Wu
+    - He Wang
+    - Bo Hu
+    - Xu Gong
+    - Yuchen Liao
+    - Songnan Li
+    - Qilong Kou
+    - Xiaogang Jin
+  venue: siggraph
+  year: 2023
+  pages: 1-10
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2306.11970
+    - name: Video
+      link: https://youtu.be/HigyJr5y_Iw
+    - name: Code
+      link: https://github.com/realcrane/RSMT-Realtime-Stylized-Motion-Transition
+
+yue2023human:
+  title: >
+    Human Trajectory Forecasting with Explainable Behavioral Uncertainty
+  authors:
+    - Jiangbei Yue
+    - Dinesh Manocha
+    - He Wang
+  venue: arxiv
+  year: 2023
+  type: Preprint
+  project: trajectoryPrediction
+  links:
+    - name: Project Page
+      link: pages/NSP.html
+    - name: Paper
+      link: https://arxiv.org/abs/2307.01817
+
+chan2019generic:
+  title: >
+    A generic framework for editing and synthesizing multimodal data with relative emotion strength
+  authors:
+    - Jacky CP Chan
+    - Hubert PH Shum
+    - He Wang
+    - Li Yi
+    - Wei Wei
+    - Edmond SL Ho
+  venue: cavw
+  year: 2019
+  volume: 30
+  number: 6
+  pages: e1871
+  type: journal
+  links:
+    - name: Paper
+      link: https://www.researchgate.net/publication/330856006_A_generic_framework_for_editing_and_synthesizing_multimodal_data_with_relative_emotion_strength_Editing_and_synthesizing_multimodal_data_with_emotion
+
+xiang2023model:
+  title: >
+    Model-based Crowd Behaviours in Human-solution Space
+  authors:
+    - Wei Xiang
+    - He Wang
+    - Yuqing Zhang
+    - Milo K Yip
+    - Xiaogang Jin
+  venue: cgf
+  year: 2023
+  pages: e14919
+  type: Journal
+  links:
+    - name: Paper
+      link: https://onlinelibrary.wiley.com/doi/10.1111/cgf.14919
+
+taccari2023understanding:
+  title: >
+    Understanding the Efficacy of U-Net & Vision Transformer for Groundwater Numerical Modelling
+  authors:
+    - Maria Luisa Taccari
+    - Oded Ovadia
+    - He Wang
+    - Adar Kahana
+    - Xiaohui Chen
+    - Peter K Jimack
+  venue: icml
+  year: 2023
+  type: Workshop
+  note: (The Synergy of Scientific and Machine Learning Modeling Workshop)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2307.04010
+    - name: Video
+      link: https://www.youtube.com/watch?v=AbrmzL8c4oY
+
+ying2023adaptive:
+  title: >
+    Adaptive Local Basis Functions for Shape Completion
+  authors:
+    - Hui Ying
+    - Tianjia Shao
+    - He Wang
+    - Yin Yang
+    - Kun Zhou
+  venue: siggraph
+  year: 2023
+  type: Conference
+  pages: 1--11
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2307.08348
+    - name: Code
+      link: https://github.com/realcrane/Adaptive-Local-Basis-Functions
+
+
+lu2023hard:
+  title: >
+    Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient
+  authors:
+    - Zhengzhi Lu
+    - He Wang
+    - Ziyi Chang
+    - Guoan Yang
+    - Hubert PH Shum
+  venue: iccv
+  year: 2023
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2308.05681
+    - name: Supplement
+      link: http://hubertshum.com/publications/iccv2023adversarial/files/supplementary.pdf
+    - name: Video
+      link: https://www.youtube.com/watch?v=hvniybZIiqA
+    - name: Code
+      link: https://github.com/luyg45/hardnoboxattack
+
+wang2023defending_1:
+  title: >
+    Defending Black-box Skeleton-based Human Activity Classifiers
+  authors:
+    - He Wang
+    - Yunfeng Diao
+    - Zichang Tan
+    - Guodong Guo
+  venue: aaai
+  year: 2023
+  type: Conference
+  project: aahar
+  links:
+    - name: Project Page
+      link: pages/AAHAR.html
+    - name: Paper
+      link: https://arxiv.org/abs/2203.04713
+    - name: Video
+      link: https://youtu.be/s1dkja9KqLg
+    - name: Code
+      link: https://github.com/realcrane/RobustActionRecogniser
+
+hasan2021maneuver_1:
+  title: >
+    Maneuver-based anchor trajectory hypotheses at roundabouts
+  authors:
+    - Mohamed Hasan
+    - Albert Solernou
+    - Evangelos Paschalidis
+    - He Wang
+    - Gustav Markkula
+    - Richard Romano
+  venue: arxiv
+  year: 2021
+  type: Preprint
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2104.11180
+    - name: Code
+      link: https://github.com/m-hasan-n/roundabout
+
+dang2023reconstructing:
+  title: >
+    Reconstructing 3D Human Pose from RGB-D Data with Occlusions
+  authors:
+    - Bowen Dang
+    - Xi Zhao
+    - Bowen Zhang
+    - He Wang
+  venue: cgf
+  year: 2023
+  type: Journal
+  note: (Accepted in Pacific Graphics (PG) 2023)
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2310.01228
+    - name: Code
+      link: https://github.com/DangBowen-Bell/Occlusion_HPR
+
+
+peng2023unsupervised:
+  title: >
+    Unsupervised image translation with distributional semantics awareness
+  authors:
+    - Zhexi Peng
+    - He Wang
+    - Yanlin Weng
+    - Yin Yang
+    - Tianjia Shao
+  venue: cvm
+  volume: 9
+  number: 3
+  page: 619--631
+  year: 2023
+  type: Journal
+  publisher: Springer
+  links:
+    - name: Paper
+      link: https://link.springer.com/content/pdf/10.1007/s41095-022-0295-3.pdf
+
+
+pan2023locality:
+  title: >
+    A Locality-based Neural Solver for Optical Motion Capture
+  authors:
+    - Xiaoyu Pan
+    - Bowen Zheng
+    - Xinwei Jiang
+    - Guanglong Xu
+    - Xianli Gu
+    - Jiangxiang Li
+    - Qilong Kou
+    - He Wang
+    - Tianjia Shao
+    - Kun Zhou
+    - Xiaogang Jin
+  venue: sigasia
+  page: 1-10
+  year: 2023
+  type: Conference
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2309.00428
+    - name: Code
+      link: https://github.com/non-void/LocalMoCap
+
+coney2023identifying:
+  title: >
+    Identifying and characterising trapped lee waves using deep learning techniques
+  authors:
+    - Jonathan Coney
+    - Leif Denby
+    - Andrew N. Ross
+    - He Wang
+    - Simon Vosper
+    - Annelize van Niekerk
+    - Tom Dunstan
+    - Neil Hindley
+  venue: Quarterly Journal of the Royal Meteorological Society
+  volume: xx
+  number: xx
+  page: xx
+  year: 2023
+  type: Journal
+  links:
+    - name: Paper
+      link: https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4592
+
+xiang2024socialcvae:
+  title: >
+    SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents
+  authors:
+    - Wei Xiang
+    - Haoteng Yin
+    - He Wang
+    - Xiaogang Jin
+  venue: aaai
+  year: 2024
+  type: Conference
+  links:
+    - name: Project Page
+      link: http://www.cad.zju.edu.cn/home/jin/AAAI20242/SocialCVAE.htm
+    - name: Paper
+      link: https://arxiv.org/html/2402.17339v1
+
+
+
+le2023rapid:
+  title: >
+    Rapid Prediction of Lipid Interaction Sites on Pleckstrin Homology Domains Using Deep Graph Neural Networks and Molecular Dynamics Simulations
+  authors:
+    - Kyle IP Le Huray
+    - Frank Sobott
+    - He Wang
+    - Antreas C Kalli
+  venue: bioRxiv
+  pages: 2023-12
+  year: 2023
+  type: Preprint
+  links:
+    - name: Paper
+      link: https://www.biorxiv.org/content/10.1101/2023.12.22.573003v1
+
+taccari2024developing:
+  title: >
+    Developing a cost-effective emulator for groundwater flow modeling using deep neural operators
+  authors:
+    - Maria Luisa Taccari
+    - He Wang
+    - Somdatta Goswami
+    - Jonathan Nuttall
+    - Xiaohui Chen
+    - Peter K Jimack
+  venue: Journal of Hydrology
+  pages: 130551
+  volume: 630
+  year: 2024
+  type: Journal
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2304.12299
+
+yuan2024physics:
+  title: >
+    Physics-informed Deep Learning to Solve Three-dimensional Terzaghi Consolidation Equation: Forward and Inverse Problems
+  authors:
+    - Biao Yuan
+    - Ana Heitor
+    - He Wang
+    - Xiaohui Chen
+  venue: axiv
+  year: 2024
+  type: Preprint
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2401.05439
+
+
+song2024loss:
+  title: >
+    Loss-Attentional Physics-Informed Neural Networks
+  authors:
+    - Yanjie Song
+    - He Wang
+    - He Yang
+    - Maria Luisa Taccari
+    - Xiaohui Chen
+  venue: Journal of Computational Physics
+  year: 2024
+  type: Journal
+  pages: 112781
+  links:
+    - name: Paper
+      link: https://www.sciencedirect.com/science/article/pii/S0021999124000305
+
+
+gong2024bayesian:
+  title: >
+    Bayesian Differentiable Physics for Cloth Digitalization
+  authors:
+    - Deshan Gong
+    - Ningtao Mao
+    - He Wang
+  venue: cvpr
+  year: 2024
+  type: Conference
+  project: BDP
+  links:
+    - name: Project Page
+      link: pages/BDP.html
+    - name: Paper
+      link: https://arxiv.org/abs/2402.17664
+    - name: Video
+      link: https://www.youtube.com/watch?v=ProN0y1bURY
+    - name: Code
+      link: https://github.com/realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization
+
+yue2024human:
+  title: >
+    Human Motion Prediction under Unexpected Perturbation
+  authors:
+    - Jiangbei Yue
+    - Baiyi Li
+    - Julien Pettre
+    - Armin Seyfried
+    - He Wang
+  venue: cvpr
+  year: 2024
+  type: Conference
+  emphasis: (Highlight Paper, ~2.8% acceptance rate)
+  project: LDP
+  links:
+    - name: Project Page
+      link: pages/LDP.html
+    - name: Paper
+      link: https://arxiv.org/abs/2403.15891
+    - name: Video
+      link: https://youtu.be/3d2m37CPMHY
+    - name: Code
+      link: https://github.com/realcrane/Human-Motion-Prediction-under-Unexpected-Perturbation
+
+hassall2024potential:
+  title: >
+    The Potential Health Benefits of Urban Tree Planting Suggested through Immersive Environments
+  authors:
+    - Christopher Hassall
+    - Michael Nisbet
+    - Ewan Norcliffe
+    - He Wang
+  venue: Land
+  year: 2024
+  type: Journal
+  links:
+    - name: Paper
+      link: https://www.mdpi.com/2691942
+
+li2024two:
+  title: >
+    Two-Person Interaction Augmentation with Skeleton Priors
+  authors:
+    - Baiyi Li
+    - Edmond Ho
+    - Hubert Shum
+    - He Wang
+  venue: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+  year: 2024
+  type: Workshop
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2404.05490
+    - name: Code
+      link: https://github.com/realcrane/Two-Person-Interaction-Augmentation-with-Skeleton-Priors
+    - name: Video
+      link: https://youtu.be/j8ApVffH5Fk
+
+florido2020investigating:
+  title: >
+    Investigating Guiding Information for Adaptive Collocation Point Sampling in PINNs
+  authors:
+    - Jose Florido
+    - He Wang
+    - Amirul Khan
+    - Peter K Jimack
+  venue: iccs
+  year: 2024
+  type: Conference
+  booktitle: Proceedings of International Conference on Computational Science
+  organization: Springer International Publishing
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2404.12282
+
+liu2024real:
+  title: >
+    Real-time Collision Detection between General SDFs
+  authors:
+    - Pengfei Liu
+    - Yuqing Zhang
+    - He Wang
+    - Milo K Yip
+    - Elvis S Liu
+    - Xiaogang Jin
+  venue: Computer Aided Geometric Design
+  pages: 102305
+  year: 2024
+  type: Journal
+  organization: Elsevier
+  emphasis: (Best Paper Award in International Conference on Geometric Modeling and Processing 2024)
+  links:
+    - name: Paper
+      link: https://www.sciencedirect.com/science/article/abs/pii/S0167839624000396?dgcid=rss_sd_all
+
+
+
+diao2022understanding:
+  title: >
+    Understanding the Vulnerability of Skeleton-based Human Activity Recognition via Black-box Attack
+  authors:
+    - Yunfeng Diao*
+    - He Wang*
+    - Tianjia Shao
+    - Yongliang Yang
+    - Kun Zhou
+    - David Hogg
+    - Meng Wang
+  venue: Pattern Recognition
+  pages: 110564
+  year: 2024
+  type: Journal
+  project: aahar
+  links:
+    - name: Project Page
+      link: pages/AAHAR.html
+    - name: Paper
+      link: https://arxiv.org/abs/2211.11312
+
+
+li2024generative:
+  title: >
+    Generative modeling of Sparse Approximate Inverse Preconditioners
+  authors:
+    - Mou Li
+    - He Wang
+    - Peter K Jimack
+  venue: iccs
+  year: 2024
+  type: Conference
+  booktitle: Proceedings of International Conference on Computational Science
+  organization: Springer International Publishing
+  links:
+    - name: Paper
+      link: https://arxiv.org/abs/2405.11007

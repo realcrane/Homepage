@@ -1,0 +1,56 @@
+{% assign filtered = '' | split: '' %}
+{%- for p in site.data.bibere.papers -%}
+	{%- if p[1].project and p[1].project == include.project -%}
+        {% assign filtered = filtered | push: p %}
+    {%- endif -%}
+{%- endfor -%}
+{% assign page="project_page" %}
+{% assign years = filtered | group_by_exp: "p",
+"p[1].year" | sort: "name" | reverse %}
+<div class="site-inner">
+	<div class="content-sidebar-wrap">
+		<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+			<header class="entry-header">
+				<div id="paper-title">{{page.title}}</div>
+			</header>
+			<div id="teaser" align="center">
+				<img width=700px src="{{include.teaser}}"/>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<div align="justify">
+				    {{include.abstract}}
+				</div>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<ol class="papers">
+					{% for year in years %}
+						{% assign types = year.items | group_by_exp: "p", "p[1].type" | sort: "name" %}
+						{% for type in types %}
+							{% assign weights = type.items | group_by_exp: "p", "p[1].sort_weight" | sort: "name" | reverse %}
+							{% for weight in weights %}
+								{% for p in weight.items %}
+									{%- assign pid = p[0] -%}
+									{% include bibere/paper.html pid=pid project_page=page %}<br/>
+								{% endfor %}
+							{% endfor %}
+						{% endfor %}
+					{% endfor %}
+				</ol>
+			</div>
+			{% if include.acknowledgement != nil %}
+				<header class="entry-header" style="position:relative;margin-top:20px">
+					<h1 class="entry-title" itemprop="headline" align="left">Acknowledgement</h1>
+				</header>
+				<div>
+					{{include.acknowledgement}}
+				</div>
+			{% endif %}
+		</article>
+	</div>
+</div>

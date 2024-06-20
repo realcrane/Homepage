@@ -1,0 +1,119 @@
+icml:
+  name: "The International Conference on Machine Learning (ICML)"
+
+neurips:
+  name: "Neural Information Processing Systems (NeurIPS)"
+
+iclr:
+  name: "The International Conference on Learning Representations (ICLR)"
+
+aaai:
+  name: "The AAAI Conference on Artificial Intelligence (AAAI)"
+
+iccv:
+  name: "The Internaitional Conference on Computer Vision (ICCV)"
+
+cgf:
+  name: "Computer Graphics Forum (CGF)"
+
+ieee_tim:
+  name: "IEEE Transactions on Instrumentation and Measurement (IEEE TIM)"
+
+siggraph:
+  name: "ACM SIGGRAPH"
+
+acmmm:
+  name: "ACM Multimedia (ACM MM)"
+
+tvcg:
+  name: "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
+
+arxiv:
+  name: "arxiv"
+
+sigasia:
+  name: "ACM SIGGRAPH Asia"
+
+eccv:
+  name: "The European Conference on Computer Vision (ECCV)"
+
+esa:
+  name: "Expert Systems with Applications"
+
+acmtog:
+  name: "ACM Transactions on Graphics (TOG)"
+
+sa:
+  name: "Science Advances"
+
+awr:
+  name: "Advances in Water Resource"
+
+cgi:
+  name: "Computer Graphics International (CGI)"
+
+cvpr:
+  name: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+
+ssc:
+  name: "Safety and Simulation Conference"
+
+rtip:
+  name: "Journal of Real-Time Image Processing"
+
+cvm:
+  name: "Computational Visual Media"
+
+aes:
+  name: "Advances in Engineering Software"
+
+bspc:
+  name: "Biomedical Signal Processing and Control"
+
+i3d:
+  name: "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (ACM I3D)"
+
+ieee_sensors:
+  name: "IEEE Sensors Journal"
+
+bioRxiv:
+  name: "bioRxiv"
+
+cavw:
+  name: "Computer Animation and Virtual Worlds"
+
+casa:
+  name: "Computer Animation & Social Agents (CASA)"
+
+trj:
+  name: "Textile Research Journal"
+
+iccs:
+  name: "The International Conference on Computational Science (ICCS)"
+
+icra:
+  name: "The International Conference on Robotics and Automation (ICRA)"
+
+ijmi:
+  name: "International Journal of Medical Informatics"
+
+cg:
+  name: "Computer & Graphics"
+
+ieee_vr:
+  name: "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)"
+
+mig:
+  name: "International Conference on Motion, Interaction and Games (MIG)"
+
+vrst:
+  name: "ACM Symposium on Virtual Reality Software and Technology (VRST)"
+
+eg:
+  name: "Eurographics (EG)"
+
+pg:
+  name: "Pacific Graphics (PG)"
+
+
+

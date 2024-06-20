@@ -1,0 +1,1904 @@
+{
+ "metadata": {
+  "collection": "publications",
+  "source": "..\\_data\\publications.bib",
+  "created": "2023-10-19T08:15:04.253219",
+  "records": 67
+ },
+ "records": [
+  {
+   "type": "incollection",
+   "id": "wang2011energy",
+   "citekey": "wang2011energy",
+   "collection": "publications",
+   "title": "Energy-Based Pose Unfolding and Interpolation for 3D Articulated Characters",
+   "year": "2011",
+   "booktitle": "Motion in Games",
+   "pages": "110--119",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ],
+   "publisher": {
+    "name": "Springer Berlin/Heidelberg"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "wang2012manipulation",
+   "citekey": "wang2012manipulation",
+   "collection": "publications",
+   "title": "Manipulation of Flexible Objects by Geodesic Control",
+   "year": "2012",
+   "booktitle": "Compute Graphics Forum (Proceedings of Eurographics 2012)",
+   "volume": "31",
+   "number": "2",
+   "organization": "John Wiley & Sons, Inc. New York, NY, USA",
+   "pages": "499--508",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "wang2013harmonic",
+   "citekey": "wang2013harmonic",
+   "collection": "publications",
+   "title": "Harmonic parameterization by electrostatics",
+   "year": "2013",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Sidorov, Kirill A"
+    },
+    {
+     "name": "Sandilands, Peter"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ],
+   "journal": {
+    "name": "ACM Transactions on Graphics (TOG)",
+    "volume": "32",
+    "number": "5",
+    "pages": "1--12"
+   }
+  },
+  {
+   "type": "article",
+   "id": "zhao2014indexing",
+   "citekey": "zhao2014indexing",
+   "collection": "publications",
+   "title": "Indexing 3D scenes using the interaction bisector surface",
+   "year": "2014",
+   "author": [
+    {
+     "name": "Zhao, Xi"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ],
+   "journal": {
+    "name": "ACM Transactions on Graphics (TOG)",
+    "volume": "33",
+    "number": "3",
+    "pages": "1--14"
+   }
+  },
+  {
+   "type": "article",
+   "id": "wang2014energy",
+   "citekey": "wang2014energy",
+   "collection": "publications",
+   "title": "An energy-driven motion planning method for two distant postures",
+   "year": "2014",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ],
+   "journal": {
+    "name": "IEEE transactions on visualization and computer graphics",
+    "volume": "21",
+    "number": "1",
+    "pages": "18--30"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "ho2014multi",
+   "citekey": "ho2014multi",
+   "collection": "publications",
+   "title": "A multi-resolution approach for adapting close character interaction",
+   "year": "2014",
+   "booktitle": "Proceedings of the 20th ACM symposium on virtual reality software and technology",
+   "pages": "97--106",
+   "author": [
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "wang2016globally",
+   "citekey": "wang2016globally",
+   "collection": "publications",
+   "title": "Globally Continuous and Non-Markovian Crowd Activity Analysis from Videos",
+   "year": "2016",
+   "booktitle": "European Conference on Computer Vision (ECCV) 2016",
+   "volume": "9909",
+   "organization": "Springer",
+   "pages": "527--544",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "O'Sullivan, Carol"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "shum2016skillvis",
+   "citekey": "shum2016skillvis",
+   "collection": "publications",
+   "title": "Skillvis: A visualization tool for boxing skill assessment",
+   "year": "2016",
+   "booktitle": "Proceedings of the 9th International Conference on Motion in Games",
+   "pages": "145--153",
+   "author": [
+    {
+     "name": "Shum, Hubert PH"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Komura, Taku"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "wang2017trending",
+   "citekey": "wang2017trending",
+   "collection": "publications",
+   "title": "Trending Paths: A New Semantic-level Metric for Comparing Simulated and Real Crowd Data",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ond\u0159ej, Jan"
+    },
+    {
+     "name": "O'Sullivan, Carol"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "volume": "23",
+    "number": "5",
+    "pages": "1454--1464"
+   }
+  },
+  {
+   "type": "article",
+   "id": "shen2017posture",
+   "citekey": "shen2017posture",
+   "collection": "publications",
+   "title": "Posture-based and action-based graphs for boxing skill visualization",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Shen, Yijun"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Yang, Longzhi"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    }
+   ],
+   "journal": {
+    "name": "Computers & Graphics",
+    "volume": "69",
+    "pages": "104--115"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "shi2017shape",
+   "citekey": "shi2017shape",
+   "collection": "publications",
+   "title": "Shape Up! Perception based body shape variation for data-driven crowds",
+   "year": "2017",
+   "booktitle": "2017 ieee virtual humans and crowds for immersive environments (vhcie)",
+   "organization": "IEEE",
+   "pages": "1--7",
+   "author": [
+    {
+     "name": "Shi, Yinxuan"
+    },
+    {
+     "name": "Ond\u0159ej, Jan"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "O'Sullivan, Carol"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "shen2018data",
+   "citekey": "shen2018data",
+   "collection": "publications",
+   "title": "Data-driven crowd motion control with multi-touch gestures",
+   "year": "2018",
+   "booktitle": "Computer Graphics Forum",
+   "volume": "37",
+   "number": "6",
+   "pages": "382--394",
+   "author": [
+    {
+     "name": "Shen, Yijun"
+    },
+    {
+     "name": "Henry, Joseph"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Komura, Taku"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "pan2019novel",
+   "citekey": "pan2019novel",
+   "collection": "publications",
+   "title": "A Novel Deep Learning based Automatic Auscultatory Method to Measure Blood Pressure",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Pan, Fan"
+    },
+    {
+     "name": "He, Peiyu"
+    },
+    {
+     "name": "Chen, Fei"
+    },
+    {
+     "name": "Zhang, Jing"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Zheng, Dingchang"
+    }
+   ],
+   "journal": {
+    "name": "International Journal of Medical Informatics",
+    "volume": "128",
+    "pages": "71--78"
+   }
+  },
+  {
+   "type": "article",
+   "id": "wang2019spatio",
+   "citekey": "wang2019spatio",
+   "collection": "publications",
+   "title": "Spatio-temporal manifold learning for human motions via long-horizon modeling",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    },
+    {
+     "name": "Zhu, Zhanxing"
+    }
+   ],
+   "journal": {
+    "name": "IEEE transactions on visualization and computer graphics",
+    "volume": "27",
+    "number": "1",
+    "pages": "216--227"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "hasan2020human",
+   "citekey": "hasan2020human",
+   "collection": "publications",
+   "title": "Human-like Planning for Reaching in Cluttered Environments",
+   "year": "2020",
+   "booktitle": "IEEE International Conference on Robotics and Automation",
+   "author": [
+    {
+     "name": "Hasan, Mohamed"
+    },
+    {
+     "name": "Warburton, Matthew"
+    },
+    {
+     "name": "Agboh, Wisdom C"
+    },
+    {
+     "name": "Dogar, Mehmet R"
+    },
+    {
+     "name": "Leonetti, Matteo"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Mushtaq, Faisal"
+    },
+    {
+     "name": "Mon-Williams, Mark"
+    },
+    {
+     "name": "Cohn, Anthony G"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "he2020informative",
+   "citekey": "he2020informative",
+   "collection": "publications",
+   "title": "Informative Scene Decomposition for Crowd Analysis, Comparison and Simulation Guidance",
+   "year": "2020",
+   "author": [
+    {
+     "name": "He, Feixiang"
+    },
+    {
+     "name": "Xiang, Yuanhang"
+    },
+    {
+     "name": "Zhao, Xi"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ],
+   "journal": {
+    "name": "ACM Transactions on Graphics (Siggraph 2020)",
+    "volume": "4",
+    "number": "39"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "zhang2020meshingnet",
+   "citekey": "zhang2020meshingnet",
+   "collection": "publications",
+   "title": "MeshingNet: A new mesh generation method based on deep learning",
+   "year": "2020",
+   "booktitle": "International Conference on Computational Science",
+   "organization": "Springer International Publishing Cham",
+   "pages": "186--198",
+   "author": [
+    {
+     "name": "Zhang, Zheyan"
+    },
+    {
+     "name": "Wang, Yongxing"
+    },
+    {
+     "name": "Jimack, Peter K"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "ji2020three",
+   "citekey": "ji2020three",
+   "collection": "publications",
+   "title": "Three-dimensional simulation of warp knitted structures based on geometric unit cell of loop yarns",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Ji, Yong"
+    },
+    {
+     "name": "Jiang, Gaoming"
+    },
+    {
+     "name": "Tang, Mengting"
+    },
+    {
+     "name": "Mao, Ningtao"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ],
+   "journal": {
+    "name": "Textile Research Journal",
+    "volume": "90",
+    "number": "23-24",
+    "pages": "2639--2647"
+   }
+  },
+  {
+   "type": "article",
+   "id": "yu2020classify",
+   "citekey": "yu2020classify",
+   "collection": "publications",
+   "title": "Classify and Generate Reciprocally: Simultaneous Positive-Unlabelled Learning and Conditional Generation with Extra Data",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Yu, Bing"
+    },
+    {
+     "name": "Sun, Ke"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Lin, Zhouchen"
+    },
+    {
+     "name": "Zhu, Zhanxing"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "xiang2020fastswarm",
+   "citekey": "xiang2020fastswarm",
+   "collection": "publications",
+   "title": "FASTSWARM: A data-driven framework for real-time flying insect swarm simulation",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Xiang, Wei"
+    },
+    {
+     "name": "Yao, Xinran"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ],
+   "journal": {
+    "name": "Computer Animation and Virtual Worlds",
+    "volume": "31",
+    "number": "4-5",
+    "pages": "e1957"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "ho2017synthesizing",
+   "citekey": "ho2017synthesizing",
+   "collection": "publications",
+   "title": "Synthesizing motion with relative emotion strength",
+   "year": "2017",
+   "booktitle": "Proceedings of the 2017 ACM SIGGRAPH Asia Workshop on Data-Driven Animation Techniques",
+   "author": [
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Yi, Li"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "warburton2020getting",
+   "citekey": "warburton2020getting",
+   "collection": "publications",
+   "title": "Getting stuck in a rut as an emergent feature of a dynamic decision-making system",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Warburton, Matthew"
+    },
+    {
+     "name": "Brookes, Jack"
+    },
+    {
+     "name": "Hasan, Mohamed"
+    },
+    {
+     "name": "Leonetti, Matteo"
+    },
+    {
+     "name": "Dogar, Mehmet"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Cohn, Anthony G"
+    },
+    {
+     "name": "Mushtaq, Faisal"
+    },
+    {
+     "name": "Mon-Williams, Mark A"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "zhang2020data",
+   "citekey": "zhang2020data",
+   "collection": "publications",
+   "title": "Data analytics in steady-state visual evoked potential-based brain--computer interface: A review",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Zhang, Yue"
+    },
+    {
+     "name": "Xie, Shane Q"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Zhang, Zhiqiang"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Sensors Journal",
+    "volume": "21",
+    "number": "2",
+    "pages": "1124--1138"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "liu2021game",
+   "citekey": "liu2021game",
+   "collection": "publications",
+   "title": "In-game residential home planning via visual context-aware global relation learning",
+   "year": "2021",
+   "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+   "volume": "35",
+   "number": "1",
+   "pages": "336--343",
+   "author": [
+    {
+     "name": "Liu, Lijuan"
+    },
+    {
+     "name": "Yang, Yin"
+    },
+    {
+     "name": "Yuan, Yi"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "diao2021basar",
+   "citekey": "diao2021basar",
+   "collection": "publications",
+   "title": "BASAR: Black-box attack on skeletal action recognition",
+   "year": "2021",
+   "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "pages": "7597--7607",
+   "author": [
+    {
+     "name": "Diao, Yunfeng"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Yang, Yong-Liang"
+    },
+    {
+     "name": "Zhou, Kun"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "pan2021heterskinnet",
+   "citekey": "pan2021heterskinnet",
+   "collection": "publications",
+   "title": "HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction",
+   "year": "2021",
+   "booktitle": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+   "volume": "4",
+   "number": "1",
+   "organization": "Association for Computing Machinery",
+   "author": [
+    {
+     "name": "Pan, Xiaoyu"
+    },
+    {
+     "name": "Huang, Jiancong"
+    },
+    {
+     "name": "Mai, Jiaming"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Li, Honglin"
+    },
+    {
+     "name": "Su, Tongkui"
+    },
+    {
+     "name": "Wang, Wenjun"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "hartley2022formation",
+   "citekey": "hartley2022formation",
+   "collection": "publications",
+   "title": "Formation control for UAVs using a Flux Guided approach",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Hartley, John"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ramamoorthy, Subramanian"
+    }
+   ],
+   "journal": {
+    "name": "Expert Systems with Applications",
+    "volume": "205",
+    "pages": "117665"
+   }
+  },
+  {
+   "type": "article",
+   "id": "hasan2021maneuver",
+   "citekey": "hasan2021maneuver",
+   "collection": "publications",
+   "title": "Maneuver-aware pooling for vehicle trajectory prediction",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Hasan, Mohamed"
+    },
+    {
+     "name": "Solernou, Albert"
+    },
+    {
+     "name": "Paschalidis, Evangelos"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Markkula, Gustav"
+    },
+    {
+     "name": "Romano, Richard"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "chen2020dynamic",
+   "citekey": "chen2020dynamic",
+   "collection": "publications",
+   "title": "Dynamic future net: Diversified human motion generation",
+   "year": "2020",
+   "booktitle": "Proceedings of the 28th ACM International Conference on Multimedia",
+   "pages": "2131--2139",
+   "author": [
+    {
+     "name": "Chen, Wenheng"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Yuan, Yi"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "pan2021development",
+   "citekey": "pan2021development",
+   "collection": "publications",
+   "title": "Development and validation of a deep learning-based automatic auscultatory blood pressure measurement method",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Pan, Fan"
+    },
+    {
+     "name": "He, Peiyu"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Xu, Yuhang"
+    },
+    {
+     "name": "Pu, Xiaobo"
+    },
+    {
+     "name": "Zhao, Qijun"
+    },
+    {
+     "name": "Chen, Fei"
+    },
+    {
+     "name": "Zheng, Dingchang"
+    }
+   ],
+   "journal": {
+    "name": "Biomedical Signal Processing and Control",
+    "volume": "68",
+    "pages": "102742"
+   }
+  },
+  {
+   "type": "article",
+   "id": "zhang2021meshingnet3d",
+   "citekey": "zhang2021meshingnet3d",
+   "collection": "publications",
+   "title": "MeshingNet3D: Efficient generation of adapted tetrahedral meshes for computational mechanics",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Zhang, Zheyan"
+    },
+    {
+     "name": "Jimack, Peter K"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ],
+   "journal": {
+    "name": "Advances in Engineering Software",
+    "volume": "157",
+    "pages": "103021"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "ying2021unsupervised",
+   "citekey": "ying2021unsupervised",
+   "collection": "publications",
+   "title": "Unsupervised Image Generation with Infinite Generative Adversarial Networks",
+   "year": "2021",
+   "booktitle": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+   "pages": "14284--14293",
+   "author": [
+    {
+     "name": "Ying, Hui"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Yang, Yin"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "le2022systematic",
+   "citekey": "le2022systematic",
+   "collection": "publications",
+   "title": "Systematic simulation of the interactions of pleckstrin homology domains with membranes",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Le Huray, Kyle IP"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Sobott, Frank"
+    },
+    {
+     "name": "Kalli, Antreas C"
+    }
+   ],
+   "journal": {
+    "name": "Science Advances",
+    "volume": "8",
+    "number": "27",
+    "pages": "eabn6992"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "gong2022fine",
+   "citekey": "gong2022fine",
+   "collection": "publications",
+   "title": "Fine-grained differentiable physics: a yarn-level model for fabrics",
+   "year": "2022",
+   "booktitle": "International Conference on Learning Representations 2022",
+   "author": [
+    {
+     "name": "Gong, Deshan"
+    },
+    {
+     "name": "Zhu, Zhanxing"
+    },
+    {
+     "name": "Bulpitt, Andrew J"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "lu2022pose",
+   "citekey": "lu2022pose",
+   "collection": "publications",
+   "title": "Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction",
+   "year": "2022",
+   "booktitle": "the AAAI conference on Artificial Intellligence 2022",
+   "author": [
+    {
+     "name": "Lu, Jiawei"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Yang, Yin"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "wang2023defending",
+   "citekey": "wang2023defending",
+   "collection": "publications",
+   "title": "Defending Black-box Classifiers by Bayesian Boundary Correction",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Diao, Yunfeng"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "taccari2022attention",
+   "citekey": "taccari2022attention",
+   "collection": "publications",
+   "title": "Attention U-Net as a surrogate model for groundwater prediction",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Taccari, Maria Luisa"
+    },
+    {
+     "name": "Nuttall, Jonathan"
+    },
+    {
+     "name": "Chen, Xiaohui"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Minnema, Bennie"
+    },
+    {
+     "name": "Jimack, Peter K"
+    }
+   ],
+   "journal": {
+    "name": "Advances in Water Resources",
+    "volume": "163",
+    "pages": "104169"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "he2022iplan",
+   "citekey": "he2022iplan",
+   "collection": "publications",
+   "title": "iPLAN: interactive and procedural layout planning",
+   "year": "2022",
+   "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "pages": "7793--7802",
+   "author": [
+    {
+     "name": "He, Feixiang"
+    },
+    {
+     "name": "Huang, Yanlong"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "zhang2022multi",
+   "citekey": "zhang2022multi",
+   "collection": "publications",
+   "title": "Multi-objective optimization-based high-pass spatial filtering for SSVEP-based brain--computer interfaces",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Zhang, Yue"
+    },
+    {
+     "name": "Li, Zhenhong"
+    },
+    {
+     "name": "Xie, Sheng Quan"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Yu, Zhibin"
+    },
+    {
+     "name": "Zhang, Zhi-Qiang"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Instrumentation and Measurement",
+    "volume": "71",
+    "pages": "1--9"
+   }
+  },
+  {
+   "type": "article",
+   "id": "diao2022large",
+   "citekey": "diao2022large",
+   "collection": "publications",
+   "title": "A large-scale container dataset and a baseline method for container hole localization",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Diao, Yunfeng"
+    },
+    {
+     "name": "Tang, Xin"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Taylor, Emma Christophine Florence"
+    },
+    {
+     "name": "Xiao, Shirui"
+    },
+    {
+     "name": "Xie, Mengtian"
+    },
+    {
+     "name": "Cheng, Wenming"
+    }
+   ],
+   "journal": {
+    "name": "Journal of Real-Time Image Processing",
+    "volume": "19",
+    "number": "3",
+    "pages": "577--589"
+   }
+  },
+  {
+   "type": "article",
+   "id": "tang2022real",
+   "citekey": "tang2022real",
+   "collection": "publications",
+   "title": "Real-time Controllable Motion Transition for Characters",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Tang, Xiangjun"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Hu, Bo"
+    },
+    {
+     "name": "Gong, Xu"
+    },
+    {
+     "name": "Yi, Ruifan"
+    },
+    {
+     "name": "Kou, Qilong"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ],
+   "journal": {
+    "name": "ACM Transactions on Graphics (Siggraph 2022)",
+    "volume": "41",
+    "number": "4",
+    "pages": "1--10"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "paschalidis2021estimation",
+   "citekey": "paschalidis2021estimation",
+   "collection": "publications",
+   "title": "Estimation and safety validation of a roundabout gap-acceptance model in a simulated environment",
+   "year": "2021",
+   "booktitle": "Proceedings of the Road Safety and Simulation Conference conference",
+   "author": [
+    {
+     "name": "Paschalidis, Evangelos"
+    },
+    {
+     "name": "Solernou, Albert"
+    },
+    {
+     "name": "Hasan, Mohamed"
+    },
+    {
+     "name": "Markkula, Gustav"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Romano, Richard"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "yao2022crowd",
+   "citekey": "yao2022crowd",
+   "collection": "publications",
+   "title": "Crowd Simulation with Detailed Body Motion and Interaction",
+   "year": "2022",
+   "booktitle": "Computer Graphics International Conference",
+   "organization": "Springer Nature Switzerland Cham",
+   "pages": "227--238",
+   "author": [
+    {
+     "name": "Yao, Xinran"
+    },
+    {
+     "name": "Wang, Shuning"
+    },
+    {
+     "name": "Sun, Wenxin"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Wang, Yangjun"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "alghamdi2022talking",
+   "citekey": "alghamdi2022talking",
+   "collection": "publications",
+   "title": "Talking Head from Speech Audio using a Pre-trained Image Generator",
+   "year": "2022",
+   "booktitle": "Proceedings of the 30th ACM International Conference on Multimedia",
+   "pages": "5228--5236",
+   "author": [
+    {
+     "name": "Alghamdi, Mohammed M"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Bulpitt, Andrew J"
+    },
+    {
+     "name": "Hogg, David C"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "zhang2022shape",
+   "citekey": "zhang2022shape",
+   "collection": "publications",
+   "title": "Shape Completion with Points in the Shadow",
+   "year": "2022",
+   "booktitle": "SIGGRAPH Asia 2022 Conference Papers",
+   "pages": "1--9",
+   "author": [
+    {
+     "name": "Zhang, Bowen"
+    },
+    {
+     "name": "Zhao, Xi"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Hu, Ruizhen"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "han2022spatio",
+   "citekey": "han2022spatio",
+   "collection": "publications",
+   "title": "Spatio-temporal Keyframe Control of Traffic Simulation using Coarse-to-Fine Optimization",
+   "year": "2022",
+   "booktitle": "Computer Graphics Forum (Pacific Graphics 2022)",
+   "author": [
+    {
+     "name": "Han, Yi"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "yue2022human",
+   "citekey": "yue2022human",
+   "collection": "publications",
+   "title": "Human trajectory prediction via neural social physics",
+   "year": "2022",
+   "booktitle": "Proceedings of the European Conference on Computer Vision",
+   "organization": "Springer Nature Switzerland",
+   "pages": "376--394",
+   "author": [
+    {
+     "name": "Yue, Jiangbei"
+    },
+    {
+     "name": "Manocha, Dinesh"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "diao2022understanding",
+   "citekey": "diao2022understanding",
+   "collection": "publications",
+   "title": "Understanding the Vulnerability of Skeleton-based Human Activity Recognition via Black-box Attack",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Diao, Yunfeng"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Yang, Yong-Liang"
+    },
+    {
+     "name": "Zhou, Kun"
+    },
+    {
+     "name": "Hogg, David"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "wang2016path",
+   "citekey": "wang2016path",
+   "collection": "publications",
+   "title": "Path patterns: Analyzing and comparing real and simulated crowds",
+   "year": "2016",
+   "booktitle": "Proceedings of the 20th acm siggraph symposium on interactive 3d graphics and games",
+   "pages": "49--57",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ond\u0159ej, Jan"
+    },
+    {
+     "name": "O'Sullivan, Carol"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "yang2023mnss",
+   "citekey": "yang2023mnss",
+   "collection": "publications",
+   "title": "MNSS: Neural Supersampling Framework for Real-Time Rendering on Mobile Devices",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Yang, Sipeng"
+    },
+    {
+     "name": "Zhao, Yunlu"
+    },
+    {
+     "name": "Luo, Yuzhe"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Sun, Hongyu"
+    },
+    {
+     "name": "Li, Chen"
+    },
+    {
+     "name": "Cai, Binghuang"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "taccari2023developing",
+   "citekey": "taccari2023developing",
+   "collection": "publications",
+   "title": "Developing a cost-effective emulator for groundwater flow modeling using deep neural operators",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Taccari, Maria Luisa"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Goswami, Somdatta"
+    },
+    {
+     "name": "Nuttall, Jonathan"
+    },
+    {
+     "name": "Chen, Xiaohui"
+    },
+    {
+     "name": "Jimack, Peter K"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "jiang2023unlearnable",
+   "citekey": "jiang2023unlearnable",
+   "collection": "publications",
+   "title": "Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples",
+   "year": "2023",
+   "booktitle": "Proceedings of the 31th ACM International Conference on Multimedia",
+   "author": [
+    {
+     "name": "Jiang, Wan"
+    },
+    {
+     "name": "Diao, Yunfeng"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Sun, Jianxin"
+    },
+    {
+     "name": "Wang, Meng"
+    },
+    {
+     "name": "Hong, Richang"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "zhang2023bayesian",
+   "citekey": "zhang2023bayesian",
+   "collection": "publications",
+   "title": "Bayesian-based Classification Confidence Estimation for Enhancing SSVEP Detection",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Zhang, Yue"
+    },
+    {
+     "name": "Xie, Sheng Quan"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Shi, Chaoyang"
+    },
+    {
+     "name": "Zhang, Zhi-Qiang"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Instrumentation and Measurement",
+    "volume": "72",
+    "pages": "1--12"
+   }
+  },
+  {
+   "type": "article",
+   "id": "hu2023point2partvolume",
+   "citekey": "hu2023point2partvolume",
+   "collection": "publications",
+   "title": "Point2PartVolume: Human Body Volume Estimation from A Single Depth Image",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Hu, Pengpeng"
+    },
+    {
+     "name": "Dai, Xinxin"
+    },
+    {
+     "name": "Zhao, Ran"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Ma, Yingliang"
+    },
+    {
+     "name": "Munteanu, Adrian"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "tang2023rsmt",
+   "citekey": "tang2023rsmt",
+   "collection": "publications",
+   "title": "RSMT: Real-time Stylized Motion Transition for Characters",
+   "year": "2023",
+   "booktitle": "ACM SIGGRAPH 2023 Conference Proceedings",
+   "pages": "1--10",
+   "author": [
+    {
+     "name": "Tang, Xiangjun"
+    },
+    {
+     "name": "Wu, Linjun"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Hu, Bo"
+    },
+    {
+     "name": "Gong, Xu"
+    },
+    {
+     "name": "Liao, Yuchen"
+    },
+    {
+     "name": "Li, Songnan"
+    },
+    {
+     "name": "Kou, Qilong"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "yue2023human",
+   "citekey": "yue2023human",
+   "collection": "publications",
+   "title": "Human Trajectory Forecasting with Explainable Behavioral Uncertainty",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Yue, Jiangbei"
+    },
+    {
+     "name": "Manocha, Dinesh"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "chan2019generic",
+   "citekey": "chan2019generic",
+   "collection": "publications",
+   "title": "A generic framework for editing and synthesizing multimodal data with relative emotion strength",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Chan, Jacky CP"
+    },
+    {
+     "name": "Shum, Hubert PH"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Yi, Li"
+    },
+    {
+     "name": "Wei, Wei"
+    },
+    {
+     "name": "Ho, Edmond SL"
+    }
+   ],
+   "journal": {
+    "name": "Computer Animation and Virtual Worlds",
+    "volume": "30",
+    "number": "6",
+    "pages": "e1871"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "xiang2023model",
+   "citekey": "xiang2023model",
+   "collection": "publications",
+   "title": "Model-based Crowd Behaviours in Human-solution Space",
+   "year": "2023",
+   "booktitle": "Computer Graphics Forum",
+   "organization": "Wiley Online Library",
+   "pages": "e14919",
+   "author": [
+    {
+     "name": "Xiang, Wei"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Zhang, Yuqing"
+    },
+    {
+     "name": "Yip, Milo K"
+    },
+    {
+     "name": "Jin, Xiaogang"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "taccari2023understanding",
+   "citekey": "taccari2023understanding",
+   "collection": "publications",
+   "title": "Understanding the Efficacy of U-Net & Vision Transformer for Groundwater Numerical Modelling",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Taccari, Maria Luisa"
+    },
+    {
+     "name": "Ovadia, Oded"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Kahana, Adar"
+    },
+    {
+     "name": "Chen, Xiaohui"
+    },
+    {
+     "name": "Jimack, Peter K"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "ying2023adaptive",
+   "citekey": "ying2023adaptive",
+   "collection": "publications",
+   "title": "Adaptive Local Basis Functions for Shape Completion",
+   "year": "2023",
+   "booktitle": "ACM SIGGRAPH 2023 Conference Proceedings",
+   "pages": "1--11",
+   "author": [
+    {
+     "name": "Ying, Hui"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Yang, Yin"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "lu2023hard",
+   "citekey": "lu2023hard",
+   "collection": "publications",
+   "title": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+   "year": "2023",
+   "booktitle": "IEEE/CVF 2023 International Conference on Computer Vision",
+   "author": [
+    {
+     "name": "Lu, Zhengzhi"
+    },
+    {
+     "name": "He, Wang"
+    },
+    {
+     "name": "Ziy, Chang"
+    },
+    {
+     "name": "Guoan, Yang"
+    },
+    {
+     "name": "Shum, Hubert P. H."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "shen2021high",
+   "citekey": "shen2021high",
+   "collection": "publications",
+   "title": "High-order differentiable autoencoder for nonlinear model reduction",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Shen, Siyuan"
+    },
+    {
+     "name": "Yin, Yang"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Jiang, Chenfanfu"
+    },
+    {
+     "name": "Lan, Lei"
+    },
+    {
+     "name": "Zhou, Kun"
+    }
+   ],
+   "journal": {
+    "name": "ACM Transaction on Graphics",
+    "volume": "40",
+    "number": "4",
+    "pages": "1--15"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "wang2021understanding",
+   "citekey": "wang2021understanding",
+   "collection": "publications",
+   "title": "Understanding the robustness of skeleton-based action recognition under adversarial attack",
+   "year": "2021",
+   "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "pages": "14656--14665",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "He, Feixiang"
+    },
+    {
+     "name": "Peng, Zhexi"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Yang, Yong-Liang"
+    },
+    {
+     "name": "Zhou, Kun"
+    },
+    {
+     "name": "Hogg, David"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "wang2019smart",
+   "citekey": "wang2019smart",
+   "collection": "publications",
+   "title": "Smart: Skeletal motion action recognition attack",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "He, Feixiang"
+    },
+    {
+     "name": "Peng, Zhexi"
+    },
+    {
+     "name": "Yang, Yongliang"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Zhou, Kun"
+    },
+    {
+     "name": "Hogg, David"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "dang2023reconstructing",
+   "citekey": "dang2023reconstructing",
+   "collection": "publications",
+   "title": "Reconstructing 3D Human Pose from RGB-D Data with Occlusions",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Dang, Bowen"
+    },
+    {
+     "name": "Zhao, Xi"
+    },
+    {
+     "name": "Zhang, Bowen"
+    },
+    {
+     "name": "Wang, He"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "peng2023unsupervised",
+   "citekey": "peng2023unsupervised",
+   "collection": "publications",
+   "title": "Unsupervised image translation with distributional semantics awareness",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Peng, Zhexi"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Weng, Yanlin"
+    },
+    {
+     "name": "Yang, Yin"
+    },
+    {
+     "name": "Shao, Tianjia"
+    }
+   ],
+   "journal": {
+    "name": "Computational Visual Media",
+    "volume": "9",
+    "number": "3",
+    "pages": "619--631"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "pan2023locality",
+   "citekey": "pan2023locality",
+   "collection": "publications",
+   "title": "A Locality-based Neural Solver for Optical Motion Capture",
+   "year": "2023",
+   "booktitle": "ACM SIGGRAPH Asia 2023 Conference Proceedings",
+   "pages": "1--10",
+   "author": [
+    {
+     "name": "Pan, Xiaoyu"
+    },
+    {
+     "name": "Zheng, Bowen"
+    },
+    {
+     "name": "Jiang, Xinwei"
+    },
+    {
+     "name": "Xu, Guanglong"
+    },
+    {
+     "name": "Gu, Xianli"
+    },
+    {
+     "name": "Li, Jingxiang"
+    },
+    {
+     "name": "Kou, Qilong"
+    },
+    {
+     "name": "Wang, He"
+    },
+    {
+     "name": "Shao, Tianjia"
+    },
+    {
+     "name": "Zhou, Kun"
+    },
+    {
+     "name": "others, "
+    }
+   ]
+  }
+ ]
+}
