@@ -1,16 +1,175 @@
----
-layout: default
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta charset="UTF-8">
+	<link type="text/css" media="all" href="/css/styles.css" rel="stylesheet">
+	<meta name="description" content="He Wang - A Researcher Blending Virtual and Real World">
+	<meta name="keywords" content="computer scientist, computer graphics and animation, computer vision, machine learning, University College London">
+	<meta name="robots" content="noodp,noydir">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  	<title>Finite Element Mesh Generation via Deep Learning</title>
+  </head>
+  <body class="home page page-id-2774 page-template-default custom-header header-image header-full-width content-sidebar" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  	<div class="site-container">
+		<header class="site-header" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<div class="wrap">
+				<div class="title-area">
+					<h1 class="site-title" itemprop="headline"><a href="/index.html">He Wang</a></h1>
+					<h2 class="site-description" itemprop="description">He Wang is an Associate Professor at University College London</h2>
+				</div>
+			</div>
+		</header>
+		<div class="navigation-container">
+  <nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+      <div class="wrap">
+          <ul id="menu-left-menu" class="menu genesis-nav-menu menu-primary">
+              <li id="menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2774 current_page_item menu-item-2795">
+                  <a href="/index.html">HOME</a>
+              </li>
+              <li id="menu-item-2793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2793">
+                  <a href="/publications.html">Publications</a>
+              </li>
+              <li id="menu-item-2780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2780">
+                  <a href="/research.html">Research</a>
+              </li>
+          </ul>
+      </div>
+  </nav>
 
-title: Finite Element Mesh Generation via Deep Learning
----
+  <nav class="nav-secondary" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+      <div class="wrap">
+          <ul id="menu-right-menu" class="menu genesis-nav-menu menu-secondary">
+              <li id="menu-item-2796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796">
+                  <a href="/funding.html">Funding</a>
+              </li>
+              <li id="menu-item-2788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2788">
+                  <a href="/group.html">Group</a>
+              </li>
+              <li id="menu-item-2789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2789">
+                  <a href="/about.html">About</a>
+              </li>
+          </ul>
+      </div>
+  </nav>
+</div>
+		
 
-{% assign abstract="Finite Element Methods (FEM) have been ubiquitously used in solving Partial Differential Equations (PDEs in an extremely wide range of fields in computer science and engineering, ranging from critical domains such as solid mechanics and fluid dynamics, to entertainments/education such as visual effects, computer graphics, animation and virtual reality. One key fundamental aspect to such research is a well-balanced trade-off between accuracy and speed: for example, a significant proportion of the effort has been devoted to generating high-quality and adaptive FEM meshes. In the era of machine learning and deep learning, scientists have been actively exploring data-driven methods such as deep neural networks to help directly solve PDEs.  One possible direction is to combine traditional numerical solvers with smartly generated FEM meshes via deep learning. This way, we aim to both accelerate the speed and safeguard the accuracy. This route eliminates the worst-case scenarios where deep learning models can generate wrong predictions due to limited training data or the lack of model generalizability when used to predict the solutions directly." %}
 
-{% assign acknowledgement=nil %}
 
-{% assign project="meshingnet" %}
 
-{% assign teaser="../imgs/MeshingNet.png" %}
 
-{% include project.html abstract=abstract project=project acknowledgement = acknowledgement teaser=teaser %}
 
+
+
+
+<div class="site-inner">
+	<div class="content-sidebar-wrap">
+		<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+			<header class="entry-header">
+				<div id="paper-title"></div>
+			</header>
+			<div id="teaser" align="center">
+				<img width=700px src="../imgs/MeshingNet.png"/>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<div align="justify">
+				    Finite Element Methods (FEM) have been ubiquitously used in solving Partial Differential Equations (PDEs in an extremely wide range of fields in computer science and engineering, ranging from critical domains such as solid mechanics and fluid dynamics, to entertainments/education such as visual effects, computer graphics, animation and virtual reality. One key fundamental aspect to such research is a well-balanced trade-off between accuracy and speed: for example, a significant proportion of the effort has been devoted to generating high-quality and adaptive FEM meshes. In the era of machine learning and deep learning, scientists have been actively exploring data-driven methods such as deep neural networks to help directly solve PDEs.  One possible direction is to combine traditional numerical solvers with smartly generated FEM meshes via deep learning. This way, we aim to both accelerate the speed and safeguard the accuracy. This route eliminates the worst-case scenarios where deep learning models can generate wrong predictions due to limited training data or the lack of model generalizability when used to predict the solutions directly.
+				</div>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<ol class="papers">
+					
+						
+						
+							
+							
+								<li id="zhang2021meshingnet3d">
+        <!-- Author --><span class="author">Zheyan Zhang</span>,&nbsp;<span class="author">Peter K Jimack</span>,&nbsp;<span class="author">He Wang</span>.&nbsp
+        <!-- Title --><span class="paper.title">MeshingNet3D: Efficient generation of adapted tetrahedral meshes for computational mechanics.</span>
+        &nbsp
+        <!-- Venue -->
+        <span class="venue">Advances in Engineering Software.
+        </span>
+        <!-- Year -->
+        <span class="year">2021</span>
+        <!-- Notes --><!-- Tag -->
+        <span class="tag_Journal tag label label-default">Journal</span><br/>
+        <div style="position:relative; margin-top: 5px"/>
+        <!-- Links --><image class="icon" src="../imgs/PDF-icon.png"/>&nbsp<a href="https://www.researchgate.net/publication/351482481_MeshingNet3D_Efficient_Generation_of_Adapted_Tetrahedral_Meshes_for_Computational_Mechanics", target="_blank">Paper</a> &nbsp<!-- Abstract--><!-- BibTex -->
+        <image class="icon" src="../imgs/bibtex-icon.png"/><a class="collapse-clicker" onclick="$('#zhang2021meshingnet3d_bibtex').slideToggle(200)">BibTex</a><div class="collapse" id="zhang2021meshingnet3d_bibtex">
+            <div class="panel panel-info">
+                <pre class="panel-body details-panel">@article{zhang2021meshingnet3d,
+  author = {Zheyan Zhang and Peter K Jimack and He Wang},
+  title = {MeshingNet3D: Efficient generation of adapted tetrahedral meshes for computational mechanics},
+  journal = {Advances in Engineering Software},
+  pages = {103021},
+  year = {2021}
+}</pre>
+            </div>
+        </div>
+    </li><br/>
+								
+							
+						
+					
+						
+						
+							
+							
+								<li id="zhang2020meshingnet">
+        <!-- Author --><span class="author">Zheyan Zhang</span>,&nbsp;<span class="author">Yongxing Wang</span>,&nbsp;<span class="author">Peter K Jimack</span>,&nbsp;<span class="author">He Wang</span>.&nbsp
+        <!-- Title --><span class="paper.title">MeshingNet: A new mesh generation method based on deep learning.</span>
+        &nbsp
+        <!-- Venue -->
+        <span class="venue">The International Conference on Computational Science (ICCS).
+        </span>
+        <!-- Year -->
+        <span class="year">2020</span>
+        <!-- Notes --><!-- Tag -->
+        <span class="tag_Conference tag label label-default">Conference</span><br/>
+        <div style="position:relative; margin-top: 5px"/>
+        <!-- Links --><image class="icon" src="../imgs/PDF-icon.png"/>&nbsp<a href="https://arxiv.org/abs/2004.07016", target="_blank">Paper</a> &nbsp<!-- Abstract--><!-- BibTex -->
+        <image class="icon" src="../imgs/bibtex-icon.png"/><a class="collapse-clicker" onclick="$('#zhang2020meshingnet_bibtex').slideToggle(200)">BibTex</a><div class="collapse" id="zhang2020meshingnet_bibtex">
+            <div class="panel panel-info">
+                <pre class="panel-body details-panel">@inproceedings{zhang2020meshingnet,
+  author = {Zheyan Zhang and Yongxing Wang and Peter K Jimack and He Wang},
+  title = {MeshingNet: A new mesh generation method based on deep learning},
+  booktitle = {The International Conference on Computational Science (ICCS)},
+  pages = {186--198},
+  year = {2020}
+}</pre>
+            </div>
+        </div>
+    </li><br/>
+								
+							
+						
+					
+				</ol>
+			</div>
+			
+		</article>
+	</div>
+</div>
+
+
+		<div style="margin-top:100px"/>
+		<footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+			<div class="wrap">
+    <p>Copyright since 2016
+        <a href="index.html">He Wang</a>
+    </p>
+</div>
+
+		</footer>
+	</div>
+  </body>
+</html>

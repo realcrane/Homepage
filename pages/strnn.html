@@ -1,20 +1,152 @@
----
-layout: default
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta charset="UTF-8">
+	<link type="text/css" media="all" href="/css/styles.css" rel="stylesheet">
+	<meta name="description" content="He Wang - A Researcher Blending Virtual and Real World">
+	<meta name="keywords" content="computer scientist, computer graphics and animation, computer vision, machine learning, University College London">
+	<meta name="robots" content="noodp,noydir">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  	<title>Spatio-temporal Manifold Learning for Human Motions via Long-horizon Modeling</title>
+  </head>
+  <body class="home page page-id-2774 page-template-default custom-header header-image header-full-width content-sidebar" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  	<div class="site-container">
+		<header class="site-header" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<div class="wrap">
+				<div class="title-area">
+					<h1 class="site-title" itemprop="headline"><a href="/index.html">He Wang</a></h1>
+					<h2 class="site-description" itemprop="description">He Wang is an Associate Professor at University College London</h2>
+				</div>
+			</div>
+		</header>
+		<div class="navigation-container">
+  <nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+      <div class="wrap">
+          <ul id="menu-left-menu" class="menu genesis-nav-menu menu-primary">
+              <li id="menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2774 current_page_item menu-item-2795">
+                  <a href="/index.html">HOME</a>
+              </li>
+              <li id="menu-item-2793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2793">
+                  <a href="/publications.html">Publications</a>
+              </li>
+              <li id="menu-item-2780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2780">
+                  <a href="/research.html">Research</a>
+              </li>
+          </ul>
+      </div>
+  </nav>
 
-title: Spatio-temporal Manifold Learning for Human Motions via Long-horizon Modeling
----
+  <nav class="nav-secondary" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+      <div class="wrap">
+          <ul id="menu-right-menu" class="menu genesis-nav-menu menu-secondary">
+              <li id="menu-item-2796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2796">
+                  <a href="/funding.html">Funding</a>
+              </li>
+              <li id="menu-item-2788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2788">
+                  <a href="/group.html">Group</a>
+              </li>
+              <li id="menu-item-2789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2789">
+                  <a href="/about.html">About</a>
+              </li>
+          </ul>
+      </div>
+  </nav>
+</div>
+		
 
-{% assign abstract="Data-driven modeling of human motions is ubiquitous in computer graphics and computer vision applications, such as synthesizing realistic motions or recognizing actions. Recent research has shown that such problems can be approached by learning a natural motion manifold using deep learning to address the shortcomings of traditional data-driven approaches. However, previous methods can be sub-optimal for two reasons. First, the skeletal information has not been fully utilized for feature extraction. Unlike images, it is difficult to define spatial proximity in skeletal motions in the way that deep networks can be applied. Second, motion is time-series data with strong multi-modal temporal correlations. A frame could be followed by several candidate frames leading to different motions; long-range dependencies exist where a number of frames in the beginning correlate to a number of frames later. Ineffective modeling would either under-estimate the multi-modality and variance, resulting in featureless mean motion or over-estimate them resulting in jittery motions. In this paper, we propose a new deep network to tackle these challenges by creating a natural motion manifold that is versatile for many applications. The network has a new spatial component for feature extraction. It is also equipped with a new batch prediction model that predicts a large number of frames at once, such that long-term temporally-based objective functions can be employed to correctly learn the motion multi-modality and variances. With our system, long-duration motions can be predicted/synthesized using an open-loop setup where the motion retains the dynamics accurately. It can also be used for denoising corrupted motions and synthesizing new motions with given control signals. We demonstrate that our system can create superior results comparing to existing work in multiple applications." %}
 
-{% assign acknowledgement="The project is partially supported by EPSRC
+
+
+
+
+
+
+
+<div class="site-inner">
+	<div class="content-sidebar-wrap">
+		<article class="post-2774 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+			<header class="entry-header">
+				<div id="paper-title"></div>
+			</header>
+			<div id="teaser" align="center">
+				<img width=700px src="../imgs/STRNN-teaser.png"/>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Abstract</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<div align="justify">
+				    Data-driven modeling of human motions is ubiquitous in computer graphics and computer vision applications, such as synthesizing realistic motions or recognizing actions. Recent research has shown that such problems can be approached by learning a natural motion manifold using deep learning to address the shortcomings of traditional data-driven approaches. However, previous methods can be sub-optimal for two reasons. First, the skeletal information has not been fully utilized for feature extraction. Unlike images, it is difficult to define spatial proximity in skeletal motions in the way that deep networks can be applied. Second, motion is time-series data with strong multi-modal temporal correlations. A frame could be followed by several candidate frames leading to different motions; long-range dependencies exist where a number of frames in the beginning correlate to a number of frames later. Ineffective modeling would either under-estimate the multi-modality and variance, resulting in featureless mean motion or over-estimate them resulting in jittery motions. In this paper, we propose a new deep network to tackle these challenges by creating a natural motion manifold that is versatile for many applications. The network has a new spatial component for feature extraction. It is also equipped with a new batch prediction model that predicts a large number of frames at once, such that long-term temporally-based objective functions can be employed to correctly learn the motion multi-modality and variances. With our system, long-duration motions can be predicted/synthesized using an open-loop setup where the motion retains the dynamics accurately. It can also be used for denoising corrupted motions and synthesizing new motions with given control signals. We demonstrate that our system can create superior results comparing to existing work in multiple applications.
+				</div>
+			</div>
+			<header class="entry-header" style="position:relative;margin-top:20px">
+				<h1 class="entry-title" itemprop="headline" align="left">Resources</h1>
+			</header>
+			<div class="entry-content" itemprop="text">
+				<ol class="papers">
+					
+						
+						
+							
+							
+								<li id="wang2019spatio">
+        <!-- Author --><span class="author">He Wang</span>,&nbsp;<span class="author">Edmond SL Ho</span>,&nbsp;<span class="author">Hubert PH Shum</span>,&nbsp;<span class="author">Zhanxing Zhu</span>.&nbsp
+        <!-- Title --><span class="paper.title">Spatio-temporal manifold learning for human motions via long-horizon modeling.</span>
+        &nbsp
+        <!-- Venue -->
+        <span class="venue">IEEE Transactions on Visualization and Computer Graphics (TVCG).
+        </span>
+        <!-- Year -->
+        <span class="year">2019</span>
+        <!-- Notes --><!-- Tag -->
+        <span class="tag_Journal tag label label-default">Journal</span><br/>
+        <div style="position:relative; margin-top: 5px"/>
+        <!-- Links --><image class="icon" src="../imgs/PDF-icon.png"/>&nbsp<a href="https://arxiv.org/abs/1908.07214", target="_blank">Paper</a> &nbsp<image class="icon" src="../imgs/video-icon.jpg"/>&nbsp<a href="https://www.youtube.com/watch?v=qjJ653e96pw&t=161s", target="_blank">Video</a> &nbsp<image class="icon" src="../imgs/video-icon.jpg"/>&nbsp<a href="https://youtu.be/jSJ0edCBEGM", target="_blank">Video</a> &nbsp<!-- Abstract--><!-- BibTex -->
+        <image class="icon" src="../imgs/bibtex-icon.png"/><a class="collapse-clicker" onclick="$('#wang2019spatio_bibtex').slideToggle(200)">BibTex</a><div class="collapse" id="wang2019spatio_bibtex">
+            <div class="panel panel-info">
+                <pre class="panel-body details-panel">@article{wang2019spatio,
+  author = {He Wang and Edmond SL Ho and Hubert PH Shum and Zhanxing Zhu},
+  title = {Spatio-temporal manifold learning for human motions via long-horizon modeling},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  year = {2019}
+}</pre>
+            </div>
+        </div>
+    </li><br/>
+								
+							
+						
+					
+				</ol>
+			</div>
+			
+				<header class="entry-header" style="position:relative;margin-top:20px">
+					<h1 class="entry-title" itemprop="headline" align="left">Acknowledgement</h1>
+				</header>
+				<div>
+					The project is partially supported by EPSRC
 (Ref:EP/R031193/1). The authors wish to gratefully
 acknowledge the support of NVIDIA Corporation with the
 donation of the Titan Xp GPU used for this research. The
 project was supported in part by the Royal Society (Ref:
-IES\R2\181024)." %}
+IES\R2\181024).
+				</div>
+			
+		</article>
+	</div>
+</div>
 
-{% assign project="strnn" %}
+		<div style="margin-top:100px"/>
+		<footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+			<div class="wrap">
+    <p>Copyright since 2016
+        <a href="index.html">He Wang</a>
+    </p>
+</div>
 
-{% assign teaser="../imgs/STRNN-teaser.png" %}
-
-{% include project.html abstract=abstract project=project acknowledgement = acknowledgement teaser=teaser %}
+		</footer>
+	</div>
+  </body>
+</html>
